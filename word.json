@@ -1,5 +1,4 @@
 [
-// --- A1 SEVİYESİ (Temel Kelimeler) ---
   { "english": "Apple", "turkish": "Elma", "level": "A1" },
   { "english": "Dog", "turkish": "Köpek", "level": "A1" },
   { "english": "Book", "turkish": "Kitap", "level": "A1" },
@@ -62,8 +61,6 @@
   { "english": "Close", "turkish": "Kapatmak", "level": "A1" },
   { "english": "Hot", "turkish": "Sıcak", "level": "A1" },
   { "english": "Cold", "turkish": "Soğuk", "level": "A1" },
-
-  // --- A2 SEVİYESİ (Orta Derece Kelimeler) ---
   { "english": "Computer", "turkish": "Bilgisayar", "level": "A2" },
   { "english": "Teacher", "turkish": "Öğretmen", "level": "A2" },
   { "english": "Phone", "turkish": "Telefon", "level": "A2" },
@@ -200,8 +197,6 @@
   { "english": "Game", "turkish": "Oyun", "level": "A2" },
   { "english": "Music", "turkish": "Müzik", "level": "A2" },
   { "english": "Film", "turkish": "Film", "level": "A2" },
-
-  // --- B1 SEVİYESİ (İleri/Gelişmiş Kelimeler) ---
   { "english": "Island", "turkish": "Ada", "level": "B1" },
   { "english": "Think", "turkish": "Düşünmek", "level": "B1" },
   { "english": "Know", "turkish": "Bilmek", "level": "B1" },
