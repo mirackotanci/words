@@ -5,7 +5,13 @@
       "passwordHash": "1pv188",
       "xp": 10,
       "level": 1,
-      "favorites": [],
+      "favorites": [
+        {
+          "english": "Lake",
+          "turkish": "Göl",
+          "level": "A1"
+        }
+      ],
       "translateFavorites": [],
       "theme": "dark"
     }
