@@ -1,4 +1,13 @@
 {
   "adminPassHash": "-g10hvh",
-  "users": {}
+  "users": {
+    "mirac": {
+      "passwordHash": "1pv188",
+      "xp": 0,
+      "level": 1,
+      "favorites": [],
+      "translateFavorites": [],
+      "theme": "dark"
+    }
+  }
 }
