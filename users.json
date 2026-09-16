@@ -39,7 +39,7 @@
       "theme": "dark"
     },
     "asdf": {
-      "xp": 10,
+      "xp": 15,
       "level": 1,
       "favorites": [],
       "translateFavorites": [],
@@ -47,12 +47,12 @@
       "theme": "dark",
       "streak": 1,
       "lastActiveDate": "2026-09-16",
-      "dailyWords": 2,
+      "dailyWords": 3,
       "dailyQuiz": 0,
-      "dailyXp": 10,
+      "dailyXp": 15,
       "quizCorrect": 0,
       "quizWrong": 0,
-      "wordsSeen": 2,
+      "wordsSeen": 3,
       "achievements": [],
       "lastWrong": []
     }
