@@ -2,7 +2,7 @@
   "adminPassHash": "-g10hvh",
   "users": {
     "mirac": {
-      "xp": 20,
+      "xp": 25,
       "level": 1,
       "favorites": [
         {
@@ -39,12 +39,12 @@
       "theme": "dark",
       "streak": 1,
       "lastActiveDate": "2026-09-16",
-      "dailyWords": 1,
+      "dailyWords": 2,
       "dailyQuiz": 0,
-      "dailyXp": 5,
+      "dailyXp": 10,
       "quizCorrect": 0,
       "quizWrong": 0,
-      "wordsSeen": 1,
+      "wordsSeen": 2,
       "achievements": [
         "first_fav"
       ],
