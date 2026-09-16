@@ -1,29 +1,4 @@
 {
   "adminPassHash": "-g10hvh",
-  "users": {
-    "mirac": {
-      "passwordHash": "189m8o",
-      "xp": 30,
-      "level": 1,
-      "favorites": [
-        {
-          "english": "Head",
-          "turkish": "Baş",
-          "level": "A1"
-        },
-        {
-          "english": "Love",
-          "turkish": "Sevmek",
-          "level": "A1"
-        },
-        {
-          "english": "Sleep",
-          "turkish": "Uyumak",
-          "level": "A1"
-        }
-      ],
-      "translateFavorites": [],
-      "theme": "light"
-    }
-  }
+  "users": {}
 }
