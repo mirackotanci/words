@@ -2,7 +2,6 @@
   "adminPassHash": "-g10hvh",
   "users": {
     "mirac": {
-      "passwordHash": "1pv188",
       "xp": 15,
       "level": 1,
       "favorites": [
@@ -36,7 +35,20 @@
           "id": 1789547355463
         }
       ],
-      "theme": "dark"
+      "passwordHash": "1pv188",
+      "theme": "dark",
+      "streak": 1,
+      "lastActiveDate": "2026-09-16",
+      "dailyWords": 0,
+      "dailyQuiz": 0,
+      "dailyXp": 0,
+      "quizCorrect": 0,
+      "quizWrong": 0,
+      "wordsSeen": 0,
+      "achievements": [
+        "first_fav"
+      ],
+      "lastWrong": []
     },
     "asdf": {
       "xp": 53,
