@@ -7,6 +7,11 @@
       "level": 1,
       "favorites": [
         {
+          "english": "Goodbye",
+          "turkish": "Hoşça kal",
+          "level": "A1"
+        },
+        {
           "english": "Farmer",
           "turkish": "Çiftçi",
           "level": "A1"
