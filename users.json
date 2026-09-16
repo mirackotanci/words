@@ -22,7 +22,14 @@
           "level": "A1"
         }
       ],
-      "translateFavorites": [],
+      "translateFavorites": [
+        {
+          "from": "brother",
+          "to": "erkek kardeş",
+          "dir": "en-tr",
+          "id": 1789547355463
+        }
+      ],
       "theme": "dark"
     }
   }
