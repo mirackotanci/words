@@ -41,7 +41,13 @@
     "asdf": {
       "xp": 25,
       "level": 1,
-      "favorites": [],
+      "favorites": [
+        {
+          "english": "Spring",
+          "turkish": "İlkbahar",
+          "level": "A1"
+        }
+      ],
       "translateFavorites": [],
       "passwordHash": "1sdh0",
       "theme": "dark",
@@ -53,7 +59,9 @@
       "quizCorrect": 0,
       "quizWrong": 0,
       "wordsSeen": 5,
-      "achievements": [],
+      "achievements": [
+        "first_fav"
+      ],
       "lastWrong": []
     }
   }
