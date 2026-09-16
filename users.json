@@ -2,12 +2,27 @@
   "adminPassHash": "-g10hvh",
   "users": {
     "mirac": {
-      "xp": 25,
-      "level": 1,
+      "xp": 100,
+      "level": 3,
       "favorites": [
         {
-          "english": "Goodbye",
-          "turkish": "Hoşça kal",
+          "english": "Old",
+          "turkish": "Yaşlı/Eski",
+          "level": "A1"
+        },
+        {
+          "english": "Close",
+          "turkish": "Kapatmak",
+          "level": "A1"
+        },
+        {
+          "english": "Plate",
+          "turkish": "Tabak",
+          "level": "A1"
+        },
+        {
+          "english": "Five",
+          "turkish": "Beş",
           "level": "A1"
         },
         {
@@ -36,17 +51,18 @@
         }
       ],
       "passwordHash": "1pv188",
-      "theme": "dark",
+      "theme": "light",
       "streak": 1,
       "lastActiveDate": "2026-09-16",
-      "dailyWords": 2,
-      "dailyQuiz": 0,
-      "dailyXp": 10,
-      "quizCorrect": 0,
+      "dailyWords": 9,
+      "dailyQuiz": 4,
+      "dailyXp": 85,
+      "quizCorrect": 4,
       "quizWrong": 0,
-      "wordsSeen": 2,
+      "wordsSeen": 9,
       "achievements": [
-        "first_fav"
+        "first_fav",
+        "xp_100"
       ],
       "lastWrong": []
     },
