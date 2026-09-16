@@ -1,252 +1,4827 @@
 [
-  { "english": "Apple", "turkish": "Elma", "level": "A1" },
-  { "english": "Dog", "turkish": "Köpek", "level": "A1" },
-  { "english": "Book", "turkish": "Kitap", "level": "A1" },
-  { "english": "Car", "turkish": "Araba", "level": "A1" },
-  { "english": "School", "turkish": "Okul", "level": "A1" },
-  { "english": "Water", "turkish": "Su", "level": "A1" },
-  { "english": "Bread", "turkish": "Ekmek", "level": "A1" },
-  { "english": "Sun", "turkish": "Güneş", "level": "A1" },
-  { "english": "Moon", "turkish": "Ay", "level": "A1" },
-  { "english": "Tree", "turkish": "Ağaç", "level": "A1" },
-  { "english": "Flower", "turkish": "Çiçek", "level": "A1" },
-  { "english": "Bird", "turkish": "Kuş", "level": "A1" },
-  { "english": "Fish", "turkish": "Balık", "level": "A1" },
-  { "english": "Milk", "turkish": "Süt", "level": "A1" },
-  { "english": "Egg", "turkish": "Yumurta", "level": "A1" },
-  { "english": "House", "turkish": "Ev", "level": "A1" },
-  { "english": "Window", "turkish": "Pencere", "level": "A1" },
-  { "english": "Door", "turkish": "Kapı", "level": "A1" },
-  { "english": "Clock", "turkish": "Saat", "level": "A1" },
-  { "english": "Bag", "turkish": "Çanta", "level": "A1" },
-  { "english": "Shoes", "turkish": "Ayakkabı", "level": "A1" },
-  { "english": "Red", "turkish": "Kırmızı", "level": "A1" },
-  { "english": "Blue", "turkish": "Mavi", "level": "A1" },
-  { "english": "Green", "turkish": "Yeşil", "level": "A1" },
-  { "english": "Yellow", "turkish": "Sarı" , "level": "A1" },
-  { "english": "Black", "turkish": "Siyah", "level": "A1" },
-  { "english": "Cat", "turkish": "Kedi", "level": "A1" },
-  { "english": "Hand", "turkish": "El", "level": "A1" },
-  { "english": "Eye", "turkish": "Göz", "level": "A1" },
-  { "english": "Ear", "turkish": "Kulak", "level": "A1" },
-  { "english": "Nose", "turkish": "Burun", "level": "A1" },
-  { "english": "Mouth", "turkish": "Ağız", "level": "A1" },
-  { "english": "Head", "turkish": "Baş", "level": "A1" },
-  { "english": "Run", "turkish": "Koşmak", "level": "A1" },
-  { "english": "Walk", "turkish": "Yürümek", "level": "A1" },
-  { "english": "Eat", "turkish": "Yemek", "level": "A1" },
-  { "english": "Drink", "turkish": "İçmek", "level": "A1" },
-  { "english": "Sleep", "turkish": "Uyumak", "level": "A1" },
-  { "english": "Read", "turkish": "Okumak", "level": "A1" },
-  { "english": "Write", "turkish": "Yazmak", "level": "A1" },
-  { "english": "See", "turkish": "Görmek", "level": "A1" },
-  { "english": "Come", "turkish": "Gelmek", "level": "A1" },
-  { "english": "Go", "turkish": "Gitmek", "level": "A1" },
-  { "english": "Love", "turkish": "Sevmek", "level": "A1" },
-  { "english": "One", "turkish": "Bir", "level": "A1" },
-  { "english": "Two", "turkish": "İki", "level": "A1" },
-  { "english": "Three", "turkish": "Üç", "level": "A1" },
-  { "english": "Ten", "turkish": "On", "level": "A1" },
-  { "english": "Mother", "turkish": "Anne", "level": "A1" },
-  { "english": "Father", "turkish": "Baba", "level": "A1" },
-  { "english": "Friend", "turkish": "Arkadaş", "level": "A1" },
-  { "english": "Name", "turkish": "İsim", "level": "A1" },
-  { "english": "Day", "turkish": "Gün", "level": "A1" },
-  { "english": "Night", "turkish": "Gece", "level": "A1" },
-  { "english": "Big", "turkish": "Büyük", "level": "A1" },
-  { "english": "Small", "turkish": "Küçük" , "level": "A1" },
-  { "english": "Good", "turkish": "İyi", "level": "A1" },
-  { "english": "Bad", "turkish": "Kötü", "level": "A1" },
-  { "english": "Open", "turkish": "Açmak", "level": "A1" },
-  { "english": "Close", "turkish": "Kapatmak", "level": "A1" },
-  { "english": "Hot", "turkish": "Sıcak", "level": "A1" },
-  { "english": "Cold", "turkish": "Soğuk", "level": "A1" },
-  { "english": "Computer", "turkish": "Bilgisayar", "level": "A2" },
-  { "english": "Teacher", "turkish": "Öğretmen", "level": "A2" },
-  { "english": "Phone", "turkish": "Telefon", "level": "A2" },
-  { "english": "Table", "turkish": "Masa", "level": "A2" },
-  { "english": "Chair", "turkish": "Sandalye", "level": "A2" },
-  { "english": "Mountain", "turkish": "Dağ", "level": "A2" },
-  { "english": "Sea", "turkish": "Deniz", "level": "A2" },
-  { "english": "Rain", "turkish": "Yağmur", "level": "A2" },
-  { "english": "Snow", "turkish": "Kar", "level": "A2" },
-  { "english": "Orange", "turkish": "Portakal", "level": "A2" },
-  { "english": "Banana", "turkish": "Muz", "level": "A2" },
-  { "english": "Tomato", "turkish": "Domates", "level": "A2" },
-  { "english": "Onion", "turkish": "Soğan", "level": "A2" },
-  { "english": "Cheese", "turkish": "Peynir", "level": "A2" },
-  { "english": "Butter", "turkish": "Tereyağı", "level": "A2" },
-  { "english": "Sugar", "turkish": "Şeker", "level": "A2" },
-  { "english": "Salt", "turkish": "Tuz", "level": "A2" },
-  { "english": "Coffee", "turkish": "Kahve", "level": "A2" },
-  { "english": "Tea", "turkish": "Çay", "level": "A2" },
-  { "english": "Juice", "turkish": "Meyve Suyu", "level": "A2" },
-  { "english": "Soup", "turkish": "Çorba", "level": "A2" },
-  { "english": "Rice", "turkish": "Pirinç", "level": "A2" },
-  { "english": "Meat", "turkish": "Et", "level": "A2" },
-  { "english": "Chicken", "turkish": "Tavuk", "level": "A2" },
-  { "english": "River", "turkish": "Nehir", "level": "A2" },
-  { "english": "Forest", "turkish": "Orman", "level": "A2" },
-  { "english": "Sky", "turkish": "Gökyüzü", "level": "A2" },
-  { "english": "Cloud", "turkish": "Bulut", "level": "A2" },
-  { "english": "Wind", "turkish": "Rüzgar", "level": "A2" },
-  { "english": "Fire", "turkish": "Ateş", "level": "A2" },
-  { "english": "Earth", "turkish": "Toprak", "level": "A2" },
-  { "english": "Stone", "turkish": "Taş", "level": "A2" },
-  { "english": "Sand", "turkish": "Kum", "level": "A2" },
-  { "english": "Bed", "turkish": "Yatak", "level": "A2" },
-  { "english": "Sofa", "turkish": "Kanepe", "level": "A2" },
-  { "english": "Lamp", "turkish": "Lamba", "level": "A2" },
-  { "english": "Mirror", "turkish": "Ayna", "level": "A2" },
-  { "english": "Key", "turkish": "Anahtar", "level": "A2" },
-  { "english": "Carpet", "turkish": "Halı", "level": "A2" },
-  { "english": "Pillow", "turkish": "Yastık", "level": "A2" },
-  { "english": "Curtain", "turkish": "Perde", "level": "A2" },
-  { "english": "Roof", "turkish": "Çatı", "level": "A2" },
-  { "english": "Wall", "turkish": "Duvar", "level": "A2" },
-  { "english": "Heart", "turkish": "Kalp", "level": "A2" },
-  { "english": "Hair", "turkish": "Saç", "level": "A2" },
-  { "english": "Shoulder", "turkish": "Omuz", "level": "A2" },
-  { "english": "Foot", "turkish": "Ayak", "level": "A2" },
-  { "english": "Speak", "turkish": "Konuşmak", "level": "A2" },
-  { "english": "Listen", "turkish": "Dinlemek", "level": "A2" },
-  { "english": "Hear", "turkish": "Duymak", "level": "A2" },
-  { "english": "Play", "turkish": "Oynamak", "level": "A2" },
-  { "english": "Cook", "turkish": "Pişirmek", "level": "A2" },
-  { "english": "Drive", "turkish": "Sürmek", "level": "A2" },
-  { "english": "Fly", "turkish": "Uçmak", "level": "A2" },
-  { "english": "Swim", "turkish": "Yüzmek" , "level": "A2" },
-  { "english": "Jump", "turkish": "Atlamak", "level": "A2" },
-  { "english": "Sit", "turkish": "Oturmak", "level": "A2" },
-  { "english": "Stand", "turkish": "Ayakta Durmak", "level": "A2" },
-  { "english": "Give", "turkish": "Vermek", "level": "A2" },
-  { "english": "Take", "turkish": "Almak", "level": "A2" },
-  { "english": "Buy", "turkish": "Satın Almak", "level": "A2" },
-  { "english": "Sell", "turkish": "Satmak", "level": "A2" },
-  { "english": "Hate", "turkish": "Nefret Etmek", "level": "A2" },
-  { "english": "Want", "turkish": "İstemek", "level": "A2" },
-  { "english": "Find", "turkish": "Bulmak", "level": "A2" },
-  { "english": "Lose", "turkish": "Kaybetmek", "level": "A2" },
-  { "english": "Win", "turkish": "Kazanmak", "level": "A2" },
-  { "english": "Start", "turkish": "Başlamak", "level": "A2" },
-  { "english": "Stop", "turkish": "Durmak", "level": "A2" },
-  { "english": "Help", "turkish": "Yardım Etmek", "level": "A2" },
-  { "english": "Ask", "turkish": "Sormak", "level": "A2" },
-  { "english": "Wait", "turkish": "Beklemek", "level": "A2" },
-  { "english": "Try", "turkish": "Denemek" , "level": "A2" },
-  { "english": "Use", "turkish": "Kullanmak", "level": "A2" },
-  { "english": "Make", "turkish": "Yapmak", "level": "A2" },
-  { "english": "Put", "turkish": "Koymak", "level": "A2" },
-  { "english": "Bring", "turkish": "Getirmek", "level": "A2" },
-  { "english": "Long", "turkish": "Uzun", "level": "A2" },
-  { "english": "Short", "turkish": "Kısa", "level": "A2" },
-  { "english": "Fast", "turkish": "Hızlı", "level": "A2" },
-  { "english": "Slow", "turkish": "Yavaş", "level": "A2" },
-  { "english": "New", "turkish": "Yeni", "level": "A2" },
-  { "english": "Old", "turkish": "Eski", "level": "A2" },
-  { "english": "Beautiful", "turkish": "Güzel", "level": "A2" },
-  { "english": "Ugly", "turkish": "Çirkin", "level": "A2" },
-  { "english": "Strong", "turkish": "Güçlü", "level": "A2" },
-  { "english": "Weak", "turkish": "Zayıf", "level": "A2" },
-  { "english": "Happy", "turkish": "Mutlu", "level": "A2" },
-  { "english": "Sad", "turkish": "Üzgün", "level": "A2" },
-  { "english": "Angry", "turkish": "Kızgın", "level": "A2" },
-  { "english": "Tired", "turkish": "Yorgun", "level": "A2" },
-  { "english": "Hungry", "turkish": "Aç", "level": "A2" },
-  { "english": "Full", "turkish": "Dolu", "level": "A2" },
-  { "english": "Empty", "turkish": "Boş", "level": "A2" },
-  { "english": "Clean", "turkish": "Temiz", "level": "A2" },
-  { "english": "Dirty", "turkish": "Kirli", "level": "A2" },
-  { "english": "Easy", "turkish": "Kolay", "level": "A2" },
-  { "english": "Hard", "turkish": "Zor", "level": "A2" },
-  { "english": "Young", "turkish": "Genç", "level": "A2" },
-  { "english": "Horse", "turkish": "At", "level": "A2" },
-  { "english": "Cow", "turkish": "İnek", "level": "A2" },
-  { "english": "Sheep", "turkish": "Koyun", "level": "A2" },
-  { "english": "Rabbit", "turkish": "Tavşan", "level": "A2" },
-  { "english": "Street", "turkish": "Sokak", "level": "A2" },
-  { "english": "Road", "turkish": "Yol", "level": "A2" },
-  { "english": "Train", "turkish": "Tren", "level": "A2" },
-  { "english": "Bus", "turkish": "Otobüs", "level": "A2" },
-  { "english": "Ship", "turkish": "Gemi", "level": "A2" },
-  { "english": "Plane", "turkish": "Uçak", "level": "A2" },
-  { "english": "Bicycle", "turkish": "Bisiklet", "level": "A2" },
-  { "english": "Hotel", "turkish": "Otel", "level": "A2" },
-  { "english": "Market", "turkish": "Market", "level": "A2" },
-  { "english": "Restaurant", "turkish": "Restoran", "level": "A2" },
-  { "english": "Park", "turkish": "Park", "level": "A2" },
-  { "english": "Morning", "turkish": "Sabah", "level": "A2" },
-  { "english": "Evening", "turkish": "Akşam", "level": "A2" },
-  { "english": "Week", "turkish": "Hafta", "level": "A2" },
-  { "english": "Today", "turkish": "Bugün", "level": "A2" },
-  { "english": "Tomorrow", "turkish": "Yarın", "level": "A2" },
-  { "english": "Yesterday", "turkish": "Dün", "level": "A2" },
-  { "english": "Hundred", "turkish": "Yüz", "level": "A2" },
-  { "english": "Doctor", "turkish": "Doktor", "level": "A2" },
-  { "english": "Police", "turkish": "Polis" , "level": "A2" },
-  { "english": "Driver", "turkish": "Şoför", "level": "A2" },
-  { "english": "Brother", "turkish": "Erkek Kardeş", "level": "A2" },
-  { "english": "Sister", "turkish": "Kız Kardeş", "level": "A2" },
-  { "english": "City", "turkish": "Şehir", "level": "A2" },
-  { "english": "Word", "turkish": "Kelime", "level": "A2" },
-  { "english": "Answer", "turkish": "Cevap", "level": "A2" },
-  { "english": "Color", "turkish": "Renk", "level": "A2" },
-  { "english": "Sound", "turkish": "Ses", "level": "A2" },
-  { "english": "Light", "turkish": "Işık", "level": "A2" },
-  { "english": "Dark", "turkish": "Karanlık", "level": "A2" },
-  { "english": "Game", "turkish": "Oyun", "level": "A2" },
-  { "english": "Music", "turkish": "Müzik", "level": "A2" },
-  { "english": "Film", "turkish": "Film", "level": "A2" },
-  { "english": "Island", "turkish": "Ada", "level": "B1" },
-  { "english": "Think", "turkish": "Düşünmek", "level": "B1" },
-  { "english": "Know", "turkish": "Bilmek", "level": "B1" },
-  { "english": "Learn", "turkish": "Öğrenmek", "level": "B1" },
-  { "english": "Teach", "turkish": "Öğretmek", "level": "B1" },
-  { "english": "Work", "turkish": "Çalışmak", "level": "B1" },
-  { "english": "Need", "turkish": "İhtiyaç Duymak", "level": "B1" },
-  { "english": "Answer", "turkish": "Cevaplamak", "level": "B1" },
-  { "english": "Rich", "turkish": "Zengin", "level": "B1" },
-  { "english": "Poor", "turkish": "Fakir", "level": "B1" },
-  { "english": "Lion", "turkish": "Aslan", "level": "B1" },
-  { "english": "Tiger", "turkish": "Kaplan", "level": "B1" },
-  { "english": "Bear", "turkish": "Ayı", "level": "B1" },
-  { "english": "Wolf", "turkish": "Kurt", "level": "B1" },
-  { "english": "Fox", "turkish": "Tilki", "level": "B1" },
-  { "english": "Snake", "turkish": "Yılan", "level": "B1" },
-  { "english": "Frog", "turkish": "Kurbağa", "level": "B1" },
-  { "english": "Butterfly", "turkish": "Kelebek", "level": "B1" },
-  { "english": "Bee", "turkish": "Arı", "level": "B1" },
-  { "english": "Ant", "turkish": "Karınca", "level": "B1" },
-  { "english": "Bridge", "turkish": "Köprü", "level": "B1" },
-  { "english": "Airport", "turkish": "Havalimanı", "level": "B1" },
-  { "english": "Hospital", "turkish": "Hastane", "level": "B1" },
-  { "english": "Library", "turkish": "Kütüphane", "level": "B1" },
-  { "english": "Month", "turkish": "Ay", "level": "B1" },
-  { "english": "Year", "turkish": "Yıl", "level": "B1" },
-  { "english": "Engineer", "turkish": "Mühendis", "level": "B1" },
-  { "english": "Lawyer", "turkish": "Avukat", "level": "B1" },
-  { "english": "Soldier", "turkish": "Asker", "level": "B1" },
-  { "english": "Chef", "turkish": "Aşçı", "level": "B1" },
-  { "english": "Farmer", "turkish": "Çiftçi", "level": "B1" },
-  { "english": "Pilot", "turkish": "Pilot", "level": "B1" },
-  { "english": "Artist", "turkish": "Sanatçı", "level": "B1" },
-  { "english": "Son", "turkish": "Oğul", "level": "B1" },
-  { "english": "Daughter", "turkish": "Kız", "level": "B1" },
-  { "english": "Grandfather", "turkish": "Büyükbaba", "level": "B1" },
-  { "english": "Grandmother", "turkish": "Büyükanne", "level": "B1" },
-  { "english": "Uncle", "turkish": "Amca / Dayı", "level": "B1" },
-  { "english": "Aunt", "turkish": "Hala / Teyze", "level": "B1" },
-  { "english": "Country", "turkish": "Ülke", "level": "B1" },
-  { "english": "Language", "turkish": "Dil", "level": "B1" },
-  { "english": "Sentence", "turkish": "Cümle", "level": "B1" },
-  { "english": "Question", "turkish": "Soru", "level": "B1" },
-  { "english": "Problem", "turkish": "Sorun", "level": "B1" },
-  { "english": "Idea", "turkish": "Fikir", "level": "B1" },
-  { "english": "Dream", "turkish": "Rüya", "level": "B1" },
-  { "english": "Life", "turkish": "Hayat", "level": "B1" },
-  { "english": "World", "turkish": "Dünya", "level": "B1" },
-  { "english": "Money", "turkish": "Para", "level": "B1" },
-  { "english": "Price", "turkish": "Fiyat", "level": "B1" },
-  { "english": "War", "turkish": "Savaş", "level": "B1" },
-  { "english": "Peace", "turkish": "Barış", "level": "B1" }
+  {
+    "english": "Apple",
+    "turkish": "Elma",
+    "level": "A1"
+  },
+  {
+    "english": "Dog",
+    "turkish": "Köpek",
+    "level": "A1"
+  },
+  {
+    "english": "Book",
+    "turkish": "Kitap",
+    "level": "A1"
+  },
+  {
+    "english": "Car",
+    "turkish": "Araba",
+    "level": "A1"
+  },
+  {
+    "english": "School",
+    "turkish": "Okul",
+    "level": "A1"
+  },
+  {
+    "english": "Water",
+    "turkish": "Su",
+    "level": "A1"
+  },
+  {
+    "english": "Bread",
+    "turkish": "Ekmek",
+    "level": "A1"
+  },
+  {
+    "english": "Sun",
+    "turkish": "Güneş",
+    "level": "A1"
+  },
+  {
+    "english": "Moon",
+    "turkish": "Ay",
+    "level": "A1"
+  },
+  {
+    "english": "Tree",
+    "turkish": "Ağaç",
+    "level": "A1"
+  },
+  {
+    "english": "Flower",
+    "turkish": "Çiçek",
+    "level": "A1"
+  },
+  {
+    "english": "Bird",
+    "turkish": "Kuş",
+    "level": "A1"
+  },
+  {
+    "english": "Fish",
+    "turkish": "Balık",
+    "level": "A1"
+  },
+  {
+    "english": "Milk",
+    "turkish": "Süt",
+    "level": "A1"
+  },
+  {
+    "english": "Egg",
+    "turkish": "Yumurta",
+    "level": "A1"
+  },
+  {
+    "english": "House",
+    "turkish": "Ev",
+    "level": "A1"
+  },
+  {
+    "english": "Window",
+    "turkish": "Pencere",
+    "level": "A1"
+  },
+  {
+    "english": "Door",
+    "turkish": "Kapı",
+    "level": "A1"
+  },
+  {
+    "english": "Clock",
+    "turkish": "Saat",
+    "level": "A1"
+  },
+  {
+    "english": "Bag",
+    "turkish": "Çanta",
+    "level": "A1"
+  },
+  {
+    "english": "Shoes",
+    "turkish": "Ayakkabı",
+    "level": "A1"
+  },
+  {
+    "english": "Red",
+    "turkish": "Kırmızı",
+    "level": "A1"
+  },
+  {
+    "english": "Blue",
+    "turkish": "Mavi",
+    "level": "A1"
+  },
+  {
+    "english": "Green",
+    "turkish": "Yeşil",
+    "level": "A1"
+  },
+  {
+    "english": "Yellow",
+    "turkish": "Sarı",
+    "level": "A1"
+  },
+  {
+    "english": "Black",
+    "turkish": "Siyah",
+    "level": "A1"
+  },
+  {
+    "english": "White",
+    "turkish": "Beyaz",
+    "level": "A1"
+  },
+  {
+    "english": "Cat",
+    "turkish": "Kedi",
+    "level": "A1"
+  },
+  {
+    "english": "Hand",
+    "turkish": "El",
+    "level": "A1"
+  },
+  {
+    "english": "Eye",
+    "turkish": "Göz",
+    "level": "A1"
+  },
+  {
+    "english": "Ear",
+    "turkish": "Kulak",
+    "level": "A1"
+  },
+  {
+    "english": "Nose",
+    "turkish": "Burun",
+    "level": "A1"
+  },
+  {
+    "english": "Mouth",
+    "turkish": "Ağız",
+    "level": "A1"
+  },
+  {
+    "english": "Head",
+    "turkish": "Baş",
+    "level": "A1"
+  },
+  {
+    "english": "Run",
+    "turkish": "Koşmak",
+    "level": "A1"
+  },
+  {
+    "english": "Walk",
+    "turkish": "Yürümek",
+    "level": "A1"
+  },
+  {
+    "english": "Eat",
+    "turkish": "Yemek",
+    "level": "A1"
+  },
+  {
+    "english": "Drink",
+    "turkish": "İçmek",
+    "level": "A1"
+  },
+  {
+    "english": "Sleep",
+    "turkish": "Uyumak",
+    "level": "A1"
+  },
+  {
+    "english": "Read",
+    "turkish": "Okumak",
+    "level": "A1"
+  },
+  {
+    "english": "Write",
+    "turkish": "Yazmak",
+    "level": "A1"
+  },
+  {
+    "english": "See",
+    "turkish": "Görmek",
+    "level": "A1"
+  },
+  {
+    "english": "Come",
+    "turkish": "Gelmek",
+    "level": "A1"
+  },
+  {
+    "english": "Go",
+    "turkish": "Gitmek",
+    "level": "A1"
+  },
+  {
+    "english": "Love",
+    "turkish": "Sevmek",
+    "level": "A1"
+  },
+  {
+    "english": "One",
+    "turkish": "Bir",
+    "level": "A1"
+  },
+  {
+    "english": "Two",
+    "turkish": "İki",
+    "level": "A1"
+  },
+  {
+    "english": "Three",
+    "turkish": "Üç",
+    "level": "A1"
+  },
+  {
+    "english": "Four",
+    "turkish": "Dört",
+    "level": "A1"
+  },
+  {
+    "english": "Five",
+    "turkish": "Beş",
+    "level": "A1"
+  },
+  {
+    "english": "Six",
+    "turkish": "Altı",
+    "level": "A1"
+  },
+  {
+    "english": "Seven",
+    "turkish": "Yedi",
+    "level": "A1"
+  },
+  {
+    "english": "Eight",
+    "turkish": "Sekiz",
+    "level": "A1"
+  },
+  {
+    "english": "Nine",
+    "turkish": "Dokuz",
+    "level": "A1"
+  },
+  {
+    "english": "Ten",
+    "turkish": "On",
+    "level": "A1"
+  },
+  {
+    "english": "Mother",
+    "turkish": "Anne",
+    "level": "A1"
+  },
+  {
+    "english": "Father",
+    "turkish": "Baba",
+    "level": "A1"
+  },
+  {
+    "english": "Friend",
+    "turkish": "Arkadaş",
+    "level": "A1"
+  },
+  {
+    "english": "Name",
+    "turkish": "İsim",
+    "level": "A1"
+  },
+  {
+    "english": "Day",
+    "turkish": "Gün",
+    "level": "A1"
+  },
+  {
+    "english": "Night",
+    "turkish": "Gece",
+    "level": "A1"
+  },
+  {
+    "english": "Big",
+    "turkish": "Büyük",
+    "level": "A1"
+  },
+  {
+    "english": "Small",
+    "turkish": "Küçük",
+    "level": "A1"
+  },
+  {
+    "english": "Good",
+    "turkish": "İyi",
+    "level": "A1"
+  },
+  {
+    "english": "Bad",
+    "turkish": "Kötü",
+    "level": "A1"
+  },
+  {
+    "english": "Open",
+    "turkish": "Açmak",
+    "level": "A1"
+  },
+  {
+    "english": "Close",
+    "turkish": "Kapatmak",
+    "level": "A1"
+  },
+  {
+    "english": "Hot",
+    "turkish": "Sıcak",
+    "level": "A1"
+  },
+  {
+    "english": "Cold",
+    "turkish": "Soğuk",
+    "level": "A1"
+  },
+  {
+    "english": "Yes",
+    "turkish": "Evet",
+    "level": "A1"
+  },
+  {
+    "english": "No",
+    "turkish": "Hayır",
+    "level": "A1"
+  },
+  {
+    "english": "Please",
+    "turkish": "Lütfen",
+    "level": "A1"
+  },
+  {
+    "english": "Thanks",
+    "turkish": "Teşekkürler",
+    "level": "A1"
+  },
+  {
+    "english": "Sorry",
+    "turkish": "Özür dilerim",
+    "level": "A1"
+  },
+  {
+    "english": "Hello",
+    "turkish": "Merhaba",
+    "level": "A1"
+  },
+  {
+    "english": "Goodbye",
+    "turkish": "Hoşça kal",
+    "level": "A1"
+  },
+  {
+    "english": "Man",
+    "turkish": "Erkek",
+    "level": "A1"
+  },
+  {
+    "english": "Woman",
+    "turkish": "Kadın",
+    "level": "A1"
+  },
+  {
+    "english": "Boy",
+    "turkish": "Erkek çocuk",
+    "level": "A1"
+  },
+  {
+    "english": "Girl",
+    "turkish": "Kız çocuk",
+    "level": "A1"
+  },
+  {
+    "english": "Baby",
+    "turkish": "Bebek",
+    "level": "A1"
+  },
+  {
+    "english": "Family",
+    "turkish": "Aile",
+    "level": "A1"
+  },
+  {
+    "english": "Home",
+    "turkish": "Ev/Yuva",
+    "level": "A1"
+  },
+  {
+    "english": "Room",
+    "turkish": "Oda",
+    "level": "A1"
+  },
+  {
+    "english": "Kitchen",
+    "turkish": "Mutfak",
+    "level": "A1"
+  },
+  {
+    "english": "Bathroom",
+    "turkish": "Banyo",
+    "level": "A1"
+  },
+  {
+    "english": "Bed",
+    "turkish": "Yatak",
+    "level": "A1"
+  },
+  {
+    "english": "Chair",
+    "turkish": "Sandalye",
+    "level": "A1"
+  },
+  {
+    "english": "Table",
+    "turkish": "Masa",
+    "level": "A1"
+  },
+  {
+    "english": "Pen",
+    "turkish": "Kalem",
+    "level": "A1"
+  },
+  {
+    "english": "Pencil",
+    "turkish": "Kurşun kalem",
+    "level": "A1"
+  },
+  {
+    "english": "Paper",
+    "turkish": "Kağıt",
+    "level": "A1"
+  },
+  {
+    "english": "Bottle",
+    "turkish": "Şişe",
+    "level": "A1"
+  },
+  {
+    "english": "Cup",
+    "turkish": "Fincan",
+    "level": "A1"
+  },
+  {
+    "english": "Plate",
+    "turkish": "Tabak",
+    "level": "A1"
+  },
+  {
+    "english": "Spoon",
+    "turkish": "Kaşık",
+    "level": "A1"
+  },
+  {
+    "english": "Fork",
+    "turkish": "Çatal",
+    "level": "A1"
+  },
+  {
+    "english": "Knife",
+    "turkish": "Bıçak",
+    "level": "A1"
+  },
+  {
+    "english": "Shirt",
+    "turkish": "Gömlek",
+    "level": "A1"
+  },
+  {
+    "english": "Trousers",
+    "turkish": "Pantolon",
+    "level": "A1"
+  },
+  {
+    "english": "Hat",
+    "turkish": "Şapka",
+    "level": "A1"
+  },
+  {
+    "english": "Coat",
+    "turkish": "Kaban",
+    "level": "A1"
+  },
+  {
+    "english": "Bicycle",
+    "turkish": "Bisiklet",
+    "level": "A1"
+  },
+  {
+    "english": "Ball",
+    "turkish": "Top",
+    "level": "A1"
+  },
+  {
+    "english": "Toy",
+    "turkish": "Oyuncak",
+    "level": "A1"
+  },
+  {
+    "english": "Music",
+    "turkish": "Müzik",
+    "level": "A1"
+  },
+  {
+    "english": "Song",
+    "turkish": "Şarkı",
+    "level": "A1"
+  },
+  {
+    "english": "Dance",
+    "turkish": "Dans etmek",
+    "level": "A1"
+  },
+  {
+    "english": "Sing",
+    "turkish": "Şarkı söylemek",
+    "level": "A1"
+  },
+  {
+    "english": "Play",
+    "turkish": "Oynamak",
+    "level": "A1"
+  },
+  {
+    "english": "Work",
+    "turkish": "Çalışmak",
+    "level": "A1"
+  },
+  {
+    "english": "Study",
+    "turkish": "Ders çalışmak",
+    "level": "A1"
+  },
+  {
+    "english": "Teacher",
+    "turkish": "Öğretmen",
+    "level": "A1"
+  },
+  {
+    "english": "Student",
+    "turkish": "Öğrenci",
+    "level": "A1"
+  },
+  {
+    "english": "Class",
+    "turkish": "Sınıf",
+    "level": "A1"
+  },
+  {
+    "english": "Number",
+    "turkish": "Sayı",
+    "level": "A1"
+  },
+  {
+    "english": "Letter",
+    "turkish": "Harf",
+    "level": "A1"
+  },
+  {
+    "english": "Word",
+    "turkish": "Kelime",
+    "level": "A1"
+  },
+  {
+    "english": "Color",
+    "turkish": "Renk",
+    "level": "A1"
+  },
+  {
+    "english": "Shape",
+    "turkish": "Şekil",
+    "level": "A1"
+  },
+  {
+    "english": "Circle",
+    "turkish": "Daire",
+    "level": "A1"
+  },
+  {
+    "english": "Square",
+    "turkish": "Kare",
+    "level": "A1"
+  },
+  {
+    "english": "Triangle",
+    "turkish": "Üçgen",
+    "level": "A1"
+  },
+  {
+    "english": "Left",
+    "turkish": "Sol",
+    "level": "A1"
+  },
+  {
+    "english": "Right",
+    "turkish": "Sağ",
+    "level": "A1"
+  },
+  {
+    "english": "Up",
+    "turkish": "Yukarı",
+    "level": "A1"
+  },
+  {
+    "english": "Down",
+    "turkish": "Aşağı",
+    "level": "A1"
+  },
+  {
+    "english": "In",
+    "turkish": "İçinde",
+    "level": "A1"
+  },
+  {
+    "english": "Out",
+    "turkish": "Dışarı",
+    "level": "A1"
+  },
+  {
+    "english": "Here",
+    "turkish": "Burada",
+    "level": "A1"
+  },
+  {
+    "english": "There",
+    "turkish": "Orada",
+    "level": "A1"
+  },
+  {
+    "english": "Now",
+    "turkish": "Şimdi",
+    "level": "A1"
+  },
+  {
+    "english": "Later",
+    "turkish": "Sonra",
+    "level": "A1"
+  },
+  {
+    "english": "Today",
+    "turkish": "Bugün",
+    "level": "A1"
+  },
+  {
+    "english": "Tomorrow",
+    "turkish": "Yarın",
+    "level": "A1"
+  },
+  {
+    "english": "Yesterday",
+    "turkish": "Dün",
+    "level": "A1"
+  },
+  {
+    "english": "Week",
+    "turkish": "Hafta",
+    "level": "A1"
+  },
+  {
+    "english": "Month",
+    "turkish": "Ay (takvim)",
+    "level": "A1"
+  },
+  {
+    "english": "Year",
+    "turkish": "Yıl",
+    "level": "A1"
+  },
+  {
+    "english": "Time",
+    "turkish": "Zaman",
+    "level": "A1"
+  },
+  {
+    "english": "Hour",
+    "turkish": "Saat (süre)",
+    "level": "A1"
+  },
+  {
+    "english": "Minute",
+    "turkish": "Dakika",
+    "level": "A1"
+  },
+  {
+    "english": "Second",
+    "turkish": "Saniye",
+    "level": "A1"
+  },
+  {
+    "english": "Old",
+    "turkish": "Yaşlı/Eski",
+    "level": "A1"
+  },
+  {
+    "english": "Young",
+    "turkish": "Genç",
+    "level": "A1"
+  },
+  {
+    "english": "New",
+    "turkish": "Yeni",
+    "level": "A1"
+  },
+  {
+    "english": "Tall",
+    "turkish": "Uzun boylu",
+    "level": "A1"
+  },
+  {
+    "english": "Short",
+    "turkish": "Kısa",
+    "level": "A1"
+  },
+  {
+    "english": "Fat",
+    "turkish": "Şişman",
+    "level": "A1"
+  },
+  {
+    "english": "Thin",
+    "turkish": "İnce/Zayıf",
+    "level": "A1"
+  },
+  {
+    "english": "Happy",
+    "turkish": "Mutlu",
+    "level": "A1"
+  },
+  {
+    "english": "Sad",
+    "turkish": "Üzgün",
+    "level": "A1"
+  },
+  {
+    "english": "Angry",
+    "turkish": "Kızgın",
+    "level": "A1"
+  },
+  {
+    "english": "Tired",
+    "turkish": "Yorgun",
+    "level": "A1"
+  },
+  {
+    "english": "Hungry",
+    "turkish": "Aç",
+    "level": "A1"
+  },
+  {
+    "english": "Thirsty",
+    "turkish": "Susamış",
+    "level": "A1"
+  },
+  {
+    "english": "Sick",
+    "turkish": "Hasta",
+    "level": "A1"
+  },
+  {
+    "english": "Healthy",
+    "turkish": "Sağlıklı",
+    "level": "A1"
+  },
+  {
+    "english": "Rain",
+    "turkish": "Yağmur",
+    "level": "A1"
+  },
+  {
+    "english": "Snow",
+    "turkish": "Kar",
+    "level": "A1"
+  },
+  {
+    "english": "Wind",
+    "turkish": "Rüzgar",
+    "level": "A1"
+  },
+  {
+    "english": "Cloud",
+    "turkish": "Bulut",
+    "level": "A1"
+  },
+  {
+    "english": "Sky",
+    "turkish": "Gökyüzü",
+    "level": "A1"
+  },
+  {
+    "english": "Star",
+    "turkish": "Yıldız",
+    "level": "A1"
+  },
+  {
+    "english": "Sea",
+    "turkish": "Deniz",
+    "level": "A1"
+  },
+  {
+    "english": "Mountain",
+    "turkish": "Dağ",
+    "level": "A1"
+  },
+  {
+    "english": "River",
+    "turkish": "Nehir",
+    "level": "A1"
+  },
+  {
+    "english": "Lake",
+    "turkish": "Göl",
+    "level": "A1"
+  },
+  {
+    "english": "Forest",
+    "turkish": "Orman",
+    "level": "A1"
+  },
+  {
+    "english": "Beach",
+    "turkish": "Plaj",
+    "level": "A1"
+  },
+  {
+    "english": "City",
+    "turkish": "Şehir",
+    "level": "A1"
+  },
+  {
+    "english": "Village",
+    "turkish": "Köy",
+    "level": "A1"
+  },
+  {
+    "english": "Street",
+    "turkish": "Sokak",
+    "level": "A1"
+  },
+  {
+    "english": "Road",
+    "turkish": "Yol",
+    "level": "A1"
+  },
+  {
+    "english": "Bridge",
+    "turkish": "Köprü",
+    "level": "A1"
+  },
+  {
+    "english": "Bus",
+    "turkish": "Otobüs",
+    "level": "A1"
+  },
+  {
+    "english": "Train",
+    "turkish": "Tren",
+    "level": "A1"
+  },
+  {
+    "english": "Plane",
+    "turkish": "Uçak",
+    "level": "A1"
+  },
+  {
+    "english": "Ship",
+    "turkish": "Gemi",
+    "level": "A1"
+  },
+  {
+    "english": "Taxi",
+    "turkish": "Taksi",
+    "level": "A1"
+  },
+  {
+    "english": "Ticket",
+    "turkish": "Bilet",
+    "level": "A1"
+  },
+  {
+    "english": "Money",
+    "turkish": "Para",
+    "level": "A1"
+  },
+  {
+    "english": "Shop",
+    "turkish": "Dükkan",
+    "level": "A1"
+  },
+  {
+    "english": "Market",
+    "turkish": "Pazar/Market",
+    "level": "A1"
+  },
+  {
+    "english": "Price",
+    "turkish": "Fiyat",
+    "level": "A1"
+  },
+  {
+    "english": "Big city",
+    "turkish": "Büyükşehir",
+    "level": "A1"
+  },
+  {
+    "english": "Job",
+    "turkish": "İş",
+    "level": "A1"
+  },
+  {
+    "english": "Doctor",
+    "turkish": "Doktor",
+    "level": "A1"
+  },
+  {
+    "english": "Nurse",
+    "turkish": "Hemşire",
+    "level": "A1"
+  },
+  {
+    "english": "Police",
+    "turkish": "Polis",
+    "level": "A1"
+  },
+  {
+    "english": "Fireman",
+    "turkish": "İtfaiyeci",
+    "level": "A1"
+  },
+  {
+    "english": "Farmer",
+    "turkish": "Çiftçi",
+    "level": "A1"
+  },
+  {
+    "english": "Cook",
+    "turkish": "Aşçı",
+    "level": "A1"
+  },
+  {
+    "english": "Driver",
+    "turkish": "Şoför",
+    "level": "A1"
+  },
+  {
+    "english": "Waiter",
+    "turkish": "Garson",
+    "level": "A1"
+  },
+  {
+    "english": "Breakfast",
+    "turkish": "Kahvaltı",
+    "level": "A1"
+  },
+  {
+    "english": "Lunch",
+    "turkish": "Öğle yemeği",
+    "level": "A1"
+  },
+  {
+    "english": "Dinner",
+    "turkish": "Akşam yemeği",
+    "level": "A1"
+  },
+  {
+    "english": "Meat",
+    "turkish": "Et",
+    "level": "A1"
+  },
+  {
+    "english": "Rice",
+    "turkish": "Pirinç",
+    "level": "A1"
+  },
+  {
+    "english": "Salad",
+    "turkish": "Salata",
+    "level": "A1"
+  },
+  {
+    "english": "Soup",
+    "turkish": "Çorba",
+    "level": "A1"
+  },
+  {
+    "english": "Cake",
+    "turkish": "Pasta",
+    "level": "A1"
+  },
+  {
+    "english": "Chocolate",
+    "turkish": "Çikolata",
+    "level": "A1"
+  },
+  {
+    "english": "Sugar",
+    "turkish": "Şeker",
+    "level": "A1"
+  },
+  {
+    "english": "Salt",
+    "turkish": "Tuz",
+    "level": "A1"
+  },
+  {
+    "english": "Fruit",
+    "turkish": "Meyve",
+    "level": "A1"
+  },
+  {
+    "english": "Vegetable",
+    "turkish": "Sebze",
+    "level": "A1"
+  },
+  {
+    "english": "Banana",
+    "turkish": "Muz",
+    "level": "A1"
+  },
+  {
+    "english": "Orange",
+    "turkish": "Portakal",
+    "level": "A1"
+  },
+  {
+    "english": "Grape",
+    "turkish": "Üzüm",
+    "level": "A1"
+  },
+  {
+    "english": "Lemon",
+    "turkish": "Limon",
+    "level": "A1"
+  },
+  {
+    "english": "Potato",
+    "turkish": "Patates",
+    "level": "A1"
+  },
+  {
+    "english": "Carrot",
+    "turkish": "Havuç",
+    "level": "A1"
+  },
+  {
+    "english": "Onion",
+    "turkish": "Soğan",
+    "level": "A1"
+  },
+  {
+    "english": "Winter",
+    "turkish": "Kış",
+    "level": "A1"
+  },
+  {
+    "english": "Summer",
+    "turkish": "Yaz",
+    "level": "A1"
+  },
+  {
+    "english": "Spring",
+    "turkish": "İlkbahar",
+    "level": "A1"
+  },
+  {
+    "english": "Autumn",
+    "turkish": "Sonbahar",
+    "level": "A1"
+  },
+  {
+    "english": "Weather",
+    "turkish": "Hava durumu",
+    "level": "A1"
+  },
+  {
+    "english": "Computer",
+    "turkish": "Bilgisayar",
+    "level": "A2"
+  },
+  {
+    "english": "Phone",
+    "turkish": "Telefon",
+    "level": "A2"
+  },
+  {
+    "english": "Mountain range",
+    "turkish": "Dağ silsilesi",
+    "level": "A2"
+  },
+  {
+    "english": "Airport",
+    "turkish": "Havalimanı",
+    "level": "A2"
+  },
+  {
+    "english": "Hotel",
+    "turkish": "Otel",
+    "level": "A2"
+  },
+  {
+    "english": "Restaurant",
+    "turkish": "Restoran",
+    "level": "A2"
+  },
+  {
+    "english": "Park",
+    "turkish": "Park",
+    "level": "A2"
+  },
+  {
+    "english": "Morning",
+    "turkish": "Sabah",
+    "level": "A2"
+  },
+  {
+    "english": "Evening",
+    "turkish": "Akşam",
+    "level": "A2"
+  },
+  {
+    "english": "Afternoon",
+    "turkish": "Öğleden sonra",
+    "level": "A2"
+  },
+  {
+    "english": "Hundred",
+    "turkish": "Yüz",
+    "level": "A2"
+  },
+  {
+    "english": "Thousand",
+    "turkish": "Bin",
+    "level": "A2"
+  },
+  {
+    "english": "Brother",
+    "turkish": "Erkek kardeş",
+    "level": "A2"
+  },
+  {
+    "english": "Sister",
+    "turkish": "Kız kardeş",
+    "level": "A2"
+  },
+  {
+    "english": "Sound",
+    "turkish": "Ses",
+    "level": "A2"
+  },
+  {
+    "english": "Light",
+    "turkish": "Işık",
+    "level": "A2"
+  },
+  {
+    "english": "Dark",
+    "turkish": "Karanlık",
+    "level": "A2"
+  },
+  {
+    "english": "Game",
+    "turkish": "Oyun",
+    "level": "A2"
+  },
+  {
+    "english": "Film",
+    "turkish": "Film",
+    "level": "A2"
+  },
+  {
+    "english": "Television",
+    "turkish": "Televizyon",
+    "level": "A2"
+  },
+  {
+    "english": "Radio",
+    "turkish": "Radyo",
+    "level": "A2"
+  },
+  {
+    "english": "Internet",
+    "turkish": "İnternet",
+    "level": "A2"
+  },
+  {
+    "english": "Email",
+    "turkish": "E-posta",
+    "level": "A2"
+  },
+  {
+    "english": "Password",
+    "turkish": "Şifre",
+    "level": "A2"
+  },
+  {
+    "english": "Keyboard",
+    "turkish": "Klavye",
+    "level": "A2"
+  },
+  {
+    "english": "Screen",
+    "turkish": "Ekran",
+    "level": "A2"
+  },
+  {
+    "english": "Camera",
+    "turkish": "Kamera",
+    "level": "A2"
+  },
+  {
+    "english": "Photograph",
+    "turkish": "Fotoğraf",
+    "level": "A2"
+  },
+  {
+    "english": "Album",
+    "turkish": "Albüm",
+    "level": "A2"
+  },
+  {
+    "english": "Newspaper",
+    "turkish": "Gazete",
+    "level": "A2"
+  },
+  {
+    "english": "Magazine",
+    "turkish": "Dergi",
+    "level": "A2"
+  },
+  {
+    "english": "Library",
+    "turkish": "Kütüphane",
+    "level": "A2"
+  },
+  {
+    "english": "Museum",
+    "turkish": "Müze",
+    "level": "A2"
+  },
+  {
+    "english": "Theatre",
+    "turkish": "Tiyatro",
+    "level": "A2"
+  },
+  {
+    "english": "Concert",
+    "turkish": "Konser",
+    "level": "A2"
+  },
+  {
+    "english": "Holiday",
+    "turkish": "Tatil",
+    "level": "A2"
+  },
+  {
+    "english": "Journey",
+    "turkish": "Yolculuk",
+    "level": "A2"
+  },
+  {
+    "english": "Travel",
+    "turkish": "Seyahat etmek",
+    "level": "A2"
+  },
+  {
+    "english": "Passport",
+    "turkish": "Pasaport",
+    "level": "A2"
+  },
+  {
+    "english": "Suitcase",
+    "turkish": "Bavul",
+    "level": "A2"
+  },
+  {
+    "english": "Map",
+    "turkish": "Harita",
+    "level": "A2"
+  },
+  {
+    "english": "Direction",
+    "turkish": "Yön",
+    "level": "A2"
+  },
+  {
+    "english": "Distance",
+    "turkish": "Mesafe",
+    "level": "A2"
+  },
+  {
+    "english": "Speed",
+    "turkish": "Hız",
+    "level": "A2"
+  },
+  {
+    "english": "Traffic",
+    "turkish": "Trafik",
+    "level": "A2"
+  },
+  {
+    "english": "Accident",
+    "turkish": "Kaza",
+    "level": "A2"
+  },
+  {
+    "english": "Ambulance",
+    "turkish": "Ambulans",
+    "level": "A2"
+  },
+  {
+    "english": "Hospital",
+    "turkish": "Hastane",
+    "level": "A2"
+  },
+  {
+    "english": "Medicine",
+    "turkish": "İlaç",
+    "level": "A2"
+  },
+  {
+    "english": "Illness",
+    "turkish": "Hastalık",
+    "level": "A2"
+  },
+  {
+    "english": "Injury",
+    "turkish": "Yaralanma",
+    "level": "A2"
+  },
+  {
+    "english": "Pain",
+    "turkish": "Acı/Ağrı",
+    "level": "A2"
+  },
+  {
+    "english": "Headache",
+    "turkish": "Baş ağrısı",
+    "level": "A2"
+  },
+  {
+    "english": "Fever",
+    "turkish": "Ateş (hastalık)",
+    "level": "A2"
+  },
+  {
+    "english": "Cough",
+    "turkish": "Öksürük",
+    "level": "A2"
+  },
+  {
+    "english": "Appointment",
+    "turkish": "Randevu",
+    "level": "A2"
+  },
+  {
+    "english": "Dentist",
+    "turkish": "Diş hekimi",
+    "level": "A2"
+  },
+  {
+    "english": "Exercise",
+    "turkish": "Egzersiz",
+    "level": "A2"
+  },
+  {
+    "english": "Sport",
+    "turkish": "Spor",
+    "level": "A2"
+  },
+  {
+    "english": "Football",
+    "turkish": "Futbol",
+    "level": "A2"
+  },
+  {
+    "english": "Basketball",
+    "turkish": "Basketbol",
+    "level": "A2"
+  },
+  {
+    "english": "Tennis",
+    "turkish": "Tenis",
+    "level": "A2"
+  },
+  {
+    "english": "Swimming",
+    "turkish": "Yüzme",
+    "level": "A2"
+  },
+  {
+    "english": "Team",
+    "turkish": "Takım",
+    "level": "A2"
+  },
+  {
+    "english": "Match",
+    "turkish": "Maç",
+    "level": "A2"
+  },
+  {
+    "english": "Win",
+    "turkish": "Kazanmak",
+    "level": "A2"
+  },
+  {
+    "english": "Lose",
+    "turkish": "Kaybetmek",
+    "level": "A2"
+  },
+  {
+    "english": "Score",
+    "turkish": "Skor",
+    "level": "A2"
+  },
+  {
+    "english": "Coach",
+    "turkish": "Antrenör",
+    "level": "A2"
+  },
+  {
+    "english": "Gym",
+    "turkish": "Spor salonu",
+    "level": "A2"
+  },
+  {
+    "english": "Weight",
+    "turkish": "Ağırlık",
+    "level": "A2"
+  },
+  {
+    "english": "Height",
+    "turkish": "Boy",
+    "level": "A2"
+  },
+  {
+    "english": "Diet",
+    "turkish": "Diyet",
+    "level": "A2"
+  },
+  {
+    "english": "Habit",
+    "turkish": "Alışkanlık",
+    "level": "A2"
+  },
+  {
+    "english": "Routine",
+    "turkish": "Rutin",
+    "level": "A2"
+  },
+  {
+    "english": "Schedule",
+    "turkish": "Program",
+    "level": "A2"
+  },
+  {
+    "english": "Meeting",
+    "turkish": "Toplantı",
+    "level": "A2"
+  },
+  {
+    "english": "Interview",
+    "turkish": "Mülakat",
+    "level": "A2"
+  },
+  {
+    "english": "Company",
+    "turkish": "Şirket",
+    "level": "A2"
+  },
+  {
+    "english": "Office",
+    "turkish": "Ofis",
+    "level": "A2"
+  },
+  {
+    "english": "Manager",
+    "turkish": "Yönetici",
+    "level": "A2"
+  },
+  {
+    "english": "Employee",
+    "turkish": "Çalışan",
+    "level": "A2"
+  },
+  {
+    "english": "Salary",
+    "turkish": "Maaş",
+    "level": "A2"
+  },
+  {
+    "english": "Customer",
+    "turkish": "Müşteri",
+    "level": "A2"
+  },
+  {
+    "english": "Product",
+    "turkish": "Ürün",
+    "level": "A2"
+  },
+  {
+    "english": "Service",
+    "turkish": "Hizmet",
+    "level": "A2"
+  },
+  {
+    "english": "Advertisement",
+    "turkish": "Reklam",
+    "level": "A2"
+  },
+  {
+    "english": "Business",
+    "turkish": "İş/Ticaret",
+    "level": "A2"
+  },
+  {
+    "english": "Industry",
+    "turkish": "Sanayi",
+    "level": "A2"
+  },
+  {
+    "english": "Factory",
+    "turkish": "Fabrika",
+    "level": "A2"
+  },
+  {
+    "english": "Machine",
+    "turkish": "Makine",
+    "level": "A2"
+  },
+  {
+    "english": "Tool",
+    "turkish": "Alet",
+    "level": "A2"
+  },
+  {
+    "english": "Furniture",
+    "turkish": "Mobilya",
+    "level": "A2"
+  },
+  {
+    "english": "Neighbour",
+    "turkish": "Komşu",
+    "level": "A2"
+  },
+  {
+    "english": "Apartment",
+    "turkish": "Apartman dairesi",
+    "level": "A2"
+  },
+  {
+    "english": "Garden",
+    "turkish": "Bahçe",
+    "level": "A2"
+  },
+  {
+    "english": "Balcony",
+    "turkish": "Balkon",
+    "level": "A2"
+  },
+  {
+    "english": "Garage",
+    "turkish": "Garaj",
+    "level": "A2"
+  },
+  {
+    "english": "Roof",
+    "turkish": "Çatı",
+    "level": "A2"
+  },
+  {
+    "english": "Wall",
+    "turkish": "Duvar",
+    "level": "A2"
+  },
+  {
+    "english": "Floor",
+    "turkish": "Zemin/Kat",
+    "level": "A2"
+  },
+  {
+    "english": "Stairs",
+    "turkish": "Merdiven",
+    "level": "A2"
+  },
+  {
+    "english": "Elevator",
+    "turkish": "Asansör",
+    "level": "A2"
+  },
+  {
+    "english": "Neighbourhood",
+    "turkish": "Mahalle",
+    "level": "A2"
+  },
+  {
+    "english": "Address",
+    "turkish": "Adres",
+    "level": "A2"
+  },
+  {
+    "english": "Postcode",
+    "turkish": "Posta kodu",
+    "level": "A2"
+  },
+  {
+    "english": "Letter (mail)",
+    "turkish": "Mektup",
+    "level": "A2"
+  },
+  {
+    "english": "Package",
+    "turkish": "Paket",
+    "level": "A2"
+  },
+  {
+    "english": "Delivery",
+    "turkish": "Teslimat",
+    "level": "A2"
+  },
+  {
+    "english": "Weather forecast",
+    "turkish": "Hava tahmini",
+    "level": "A2"
+  },
+  {
+    "english": "Temperature",
+    "turkish": "Sıcaklık",
+    "level": "A2"
+  },
+  {
+    "english": "Storm",
+    "turkish": "Fırtına",
+    "level": "A2"
+  },
+  {
+    "english": "Thunder",
+    "turkish": "Gök gürültüsü",
+    "level": "A2"
+  },
+  {
+    "english": "Lightning",
+    "turkish": "Şimşek",
+    "level": "A2"
+  },
+  {
+    "english": "Season",
+    "turkish": "Mevsim",
+    "level": "A2"
+  },
+  {
+    "english": "Century",
+    "turkish": "Yüzyıl",
+    "level": "A2"
+  },
+  {
+    "english": "Century mark",
+    "turkish": "Yüzyıl işareti",
+    "level": "A2"
+  },
+  {
+    "english": "Kilometre",
+    "turkish": "Kilometre",
+    "level": "A2"
+  },
+  {
+    "english": "Metre",
+    "turkish": "Metre",
+    "level": "A2"
+  },
+  {
+    "english": "Litre",
+    "turkish": "Litre",
+    "level": "A2"
+  },
+  {
+    "english": "Gram",
+    "turkish": "Gram",
+    "level": "A2"
+  },
+  {
+    "english": "Kilogram",
+    "turkish": "Kilogram",
+    "level": "A2"
+  },
+  {
+    "english": "Half",
+    "turkish": "Yarım",
+    "level": "A2"
+  },
+  {
+    "english": "Quarter",
+    "turkish": "Çeyrek",
+    "level": "A2"
+  },
+  {
+    "english": "Percent",
+    "turkish": "Yüzde",
+    "level": "A2"
+  },
+  {
+    "english": "Bill",
+    "turkish": "Fatura",
+    "level": "A2"
+  },
+  {
+    "english": "Receipt",
+    "turkish": "Fiş/Makbuz",
+    "level": "A2"
+  },
+  {
+    "english": "Discount",
+    "turkish": "İndirim",
+    "level": "A2"
+  },
+  {
+    "english": "Cash",
+    "turkish": "Nakit",
+    "level": "A2"
+  },
+  {
+    "english": "Credit card",
+    "turkish": "Kredi kartı",
+    "level": "A2"
+  },
+  {
+    "english": "Bank",
+    "turkish": "Banka",
+    "level": "A2"
+  },
+  {
+    "english": "Account",
+    "turkish": "Hesap",
+    "level": "A2"
+  },
+  {
+    "english": "Loan",
+    "turkish": "Kredi/Borç",
+    "level": "A2"
+  },
+  {
+    "english": "Insurance",
+    "turkish": "Sigorta",
+    "level": "A2"
+  },
+  {
+    "english": "Rent",
+    "turkish": "Kira",
+    "level": "A2"
+  },
+  {
+    "english": "Owner",
+    "turkish": "Sahip",
+    "level": "A2"
+  },
+  {
+    "english": "Landlord",
+    "turkish": "Ev sahibi",
+    "level": "A2"
+  },
+  {
+    "english": "Tenant",
+    "turkish": "Kiracı",
+    "level": "A2"
+  },
+  {
+    "english": "Contract",
+    "turkish": "Sözleşme",
+    "level": "A2"
+  },
+  {
+    "english": "Agreement",
+    "turkish": "Anlaşma",
+    "level": "A2"
+  },
+  {
+    "english": "Government",
+    "turkish": "Hükümet",
+    "level": "A2"
+  },
+  {
+    "english": "President",
+    "turkish": "Cumhurbaşkanı/Başkan",
+    "level": "A2"
+  },
+  {
+    "english": "Election",
+    "turkish": "Seçim",
+    "level": "A2"
+  },
+  {
+    "english": "Law",
+    "turkish": "Kanun",
+    "level": "A2"
+  },
+  {
+    "english": "Court",
+    "turkish": "Mahkeme",
+    "level": "A2"
+  },
+  {
+    "english": "Judge",
+    "turkish": "Hakim",
+    "level": "A2"
+  },
+  {
+    "english": "Crime",
+    "turkish": "Suç",
+    "level": "A2"
+  },
+  {
+    "english": "Prison",
+    "turkish": "Hapishane",
+    "level": "A2"
+  },
+  {
+    "english": "War",
+    "turkish": "Savaş",
+    "level": "A2"
+  },
+  {
+    "english": "Peace",
+    "turkish": "Barış",
+    "level": "A2"
+  },
+  {
+    "english": "Army",
+    "turkish": "Ordu",
+    "level": "A2"
+  },
+  {
+    "english": "Soldier",
+    "turkish": "Asker",
+    "level": "A2"
+  },
+  {
+    "english": "Weapon",
+    "turkish": "Silah",
+    "level": "A2"
+  },
+  {
+    "english": "Border",
+    "turkish": "Sınır",
+    "level": "A2"
+  },
+  {
+    "english": "Flag",
+    "turkish": "Bayrak",
+    "level": "A2"
+  },
+  {
+    "english": "Nation",
+    "turkish": "Ulus",
+    "level": "A2"
+  },
+  {
+    "english": "Population",
+    "turkish": "Nüfus",
+    "level": "A2"
+  },
+  {
+    "english": "Culture",
+    "turkish": "Kültür",
+    "level": "A2"
+  },
+  {
+    "english": "Tradition",
+    "turkish": "Gelenek",
+    "level": "A2"
+  },
+  {
+    "english": "Custom",
+    "turkish": "Adet",
+    "level": "A2"
+  },
+  {
+    "english": "Religion",
+    "turkish": "Din",
+    "level": "A2"
+  },
+  {
+    "english": "Festival",
+    "turkish": "Festival",
+    "level": "A2"
+  },
+  {
+    "english": "Wedding",
+    "turkish": "Düğün",
+    "level": "A2"
+  },
+  {
+    "english": "Birthday",
+    "turkish": "Doğum günü",
+    "level": "A2"
+  },
+  {
+    "english": "Gift",
+    "turkish": "Hediye",
+    "level": "A2"
+  },
+  {
+    "english": "Party",
+    "turkish": "Parti/Kutlama",
+    "level": "A2"
+  },
+  {
+    "english": "Celebration",
+    "turkish": "Kutlama",
+    "level": "A2"
+  },
+  {
+    "english": "Invitation",
+    "turkish": "Davetiye",
+    "level": "A2"
+  },
+  {
+    "english": "Guest",
+    "turkish": "Misafir",
+    "level": "A2"
+  },
+  {
+    "english": "Host",
+    "turkish": "Ev sahibi/Sunucu",
+    "level": "A2"
+  },
+  {
+    "english": "Neighbourly",
+    "turkish": "Komşuca",
+    "level": "A2"
+  },
+  {
+    "english": "Community",
+    "turkish": "Topluluk",
+    "level": "A2"
+  },
+  {
+    "english": "Society",
+    "turkish": "Toplum",
+    "level": "A2"
+  },
+  {
+    "english": "Island",
+    "turkish": "Ada",
+    "level": "B1"
+  },
+  {
+    "english": "Think",
+    "turkish": "Düşünmek",
+    "level": "B1"
+  },
+  {
+    "english": "Know",
+    "turkish": "Bilmek",
+    "level": "B1"
+  },
+  {
+    "english": "Learn",
+    "turkish": "Öğrenmek",
+    "level": "B1"
+  },
+  {
+    "english": "Teach",
+    "turkish": "Öğretmek",
+    "level": "B1"
+  },
+  {
+    "english": "Need",
+    "turkish": "İhtiyaç duymak",
+    "level": "B1"
+  },
+  {
+    "english": "Rich",
+    "turkish": "Zengin",
+    "level": "B1"
+  },
+  {
+    "english": "Poor",
+    "turkish": "Fakir",
+    "level": "B1"
+  },
+  {
+    "english": "Lion",
+    "turkish": "Aslan",
+    "level": "B1"
+  },
+  {
+    "english": "Tiger",
+    "turkish": "Kaplan",
+    "level": "B1"
+  },
+  {
+    "english": "Bear",
+    "turkish": "Ayı",
+    "level": "B1"
+  },
+  {
+    "english": "Wolf",
+    "turkish": "Kurt",
+    "level": "B1"
+  },
+  {
+    "english": "Fox",
+    "turkish": "Tilki",
+    "level": "B1"
+  },
+  {
+    "english": "Snake",
+    "turkish": "Yılan",
+    "level": "B1"
+  },
+  {
+    "english": "Frog",
+    "turkish": "Kurbağa",
+    "level": "B1"
+  },
+  {
+    "english": "Butterfly",
+    "turkish": "Kelebek",
+    "level": "B1"
+  },
+  {
+    "english": "Bee",
+    "turkish": "Arı",
+    "level": "B1"
+  },
+  {
+    "english": "Ant",
+    "turkish": "Karınca",
+    "level": "B1"
+  },
+  {
+    "english": "Engineer",
+    "turkish": "Mühendis",
+    "level": "B1"
+  },
+  {
+    "english": "Lawyer",
+    "turkish": "Avukat",
+    "level": "B1"
+  },
+  {
+    "english": "Chef",
+    "turkish": "Aşçı (uzman)",
+    "level": "B1"
+  },
+  {
+    "english": "Pilot",
+    "turkish": "Pilot",
+    "level": "B1"
+  },
+  {
+    "english": "Artist",
+    "turkish": "Sanatçı",
+    "level": "B1"
+  },
+  {
+    "english": "Grandfather",
+    "turkish": "Büyükbaba",
+    "level": "B1"
+  },
+  {
+    "english": "Grandmother",
+    "turkish": "Büyükanne",
+    "level": "B1"
+  },
+  {
+    "english": "Uncle",
+    "turkish": "Amca/Dayı",
+    "level": "B1"
+  },
+  {
+    "english": "Aunt",
+    "turkish": "Hala/Teyze",
+    "level": "B1"
+  },
+  {
+    "english": "Country",
+    "turkish": "Ülke",
+    "level": "B1"
+  },
+  {
+    "english": "Language",
+    "turkish": "Dil",
+    "level": "B1"
+  },
+  {
+    "english": "Sentence",
+    "turkish": "Cümle",
+    "level": "B1"
+  },
+  {
+    "english": "Question",
+    "turkish": "Soru",
+    "level": "B1"
+  },
+  {
+    "english": "Problem",
+    "turkish": "Sorun",
+    "level": "B1"
+  },
+  {
+    "english": "Idea",
+    "turkish": "Fikir",
+    "level": "B1"
+  },
+  {
+    "english": "Dream",
+    "turkish": "Rüya/Hayal",
+    "level": "B1"
+  },
+  {
+    "english": "Life",
+    "turkish": "Hayat",
+    "level": "B1"
+  },
+  {
+    "english": "World",
+    "turkish": "Dünya",
+    "level": "B1"
+  },
+  {
+    "english": "Opinion",
+    "turkish": "Görüş",
+    "level": "B1"
+  },
+  {
+    "english": "Argument",
+    "turkish": "Tartışma",
+    "level": "B1"
+  },
+  {
+    "english": "Decision",
+    "turkish": "Karar",
+    "level": "B1"
+  },
+  {
+    "english": "Choice",
+    "turkish": "Seçim",
+    "level": "B1"
+  },
+  {
+    "english": "Opportunity",
+    "turkish": "Fırsat",
+    "level": "B1"
+  },
+  {
+    "english": "Challenge",
+    "turkish": "Zorluk",
+    "level": "B1"
+  },
+  {
+    "english": "Goal",
+    "turkish": "Hedef",
+    "level": "B1"
+  },
+  {
+    "english": "Achievement",
+    "turkish": "Başarı",
+    "level": "B1"
+  },
+  {
+    "english": "Success",
+    "turkish": "Başarı",
+    "level": "B1"
+  },
+  {
+    "english": "Failure",
+    "turkish": "Başarısızlık",
+    "level": "B1"
+  },
+  {
+    "english": "Effort",
+    "turkish": "Çaba",
+    "level": "B1"
+  },
+  {
+    "english": "Ability",
+    "turkish": "Yetenek",
+    "level": "B1"
+  },
+  {
+    "english": "Skill",
+    "turkish": "Beceri",
+    "level": "B1"
+  },
+  {
+    "english": "Talent",
+    "turkish": "Yetenek/İstidat",
+    "level": "B1"
+  },
+  {
+    "english": "Experience",
+    "turkish": "Deneyim",
+    "level": "B1"
+  },
+  {
+    "english": "Knowledge",
+    "turkish": "Bilgi",
+    "level": "B1"
+  },
+  {
+    "english": "Information",
+    "turkish": "Bilgi/Enformasyon",
+    "level": "B1"
+  },
+  {
+    "english": "Fact",
+    "turkish": "Gerçek/Olgu",
+    "level": "B1"
+  },
+  {
+    "english": "Truth",
+    "turkish": "Hakikat",
+    "level": "B1"
+  },
+  {
+    "english": "Lie",
+    "turkish": "Yalan",
+    "level": "B1"
+  },
+  {
+    "english": "Secret",
+    "turkish": "Sır",
+    "level": "B1"
+  },
+  {
+    "english": "Mystery",
+    "turkish": "Gizem",
+    "level": "B1"
+  },
+  {
+    "english": "Discovery",
+    "turkish": "Keşif",
+    "level": "B1"
+  },
+  {
+    "english": "Invention",
+    "turkish": "İcat",
+    "level": "B1"
+  },
+  {
+    "english": "Research",
+    "turkish": "Araştırma",
+    "level": "B1"
+  },
+  {
+    "english": "Science",
+    "turkish": "Bilim",
+    "level": "B1"
+  },
+  {
+    "english": "Technology",
+    "turkish": "Teknoloji",
+    "level": "B1"
+  },
+  {
+    "english": "Environment",
+    "turkish": "Çevre",
+    "level": "B1"
+  },
+  {
+    "english": "Nature",
+    "turkish": "Doğa",
+    "level": "B1"
+  },
+  {
+    "english": "Pollution",
+    "turkish": "Kirlilik",
+    "level": "B1"
+  },
+  {
+    "english": "Climate",
+    "turkish": "İklim",
+    "level": "B1"
+  },
+  {
+    "english": "Energy",
+    "turkish": "Enerji",
+    "level": "B1"
+  },
+  {
+    "english": "Resource",
+    "turkish": "Kaynak",
+    "level": "B1"
+  },
+  {
+    "english": "Recycle",
+    "turkish": "Geri dönüştürmek",
+    "level": "B1"
+  },
+  {
+    "english": "Waste",
+    "turkish": "Atık/İsraf",
+    "level": "B1"
+  },
+  {
+    "english": "Damage",
+    "turkish": "Zarar",
+    "level": "B1"
+  },
+  {
+    "english": "Danger",
+    "turkish": "Tehlike",
+    "level": "B1"
+  },
+  {
+    "english": "Safety",
+    "turkish": "Güvenlik",
+    "level": "B1"
+  },
+  {
+    "english": "Risk",
+    "turkish": "Risk",
+    "level": "B1"
+  },
+  {
+    "english": "Protect",
+    "turkish": "Korumak",
+    "level": "B1"
+  },
+  {
+    "english": "Avoid",
+    "turkish": "Kaçınmak",
+    "level": "B1"
+  },
+  {
+    "english": "Prevent",
+    "turkish": "Önlemek",
+    "level": "B1"
+  },
+  {
+    "english": "Solve",
+    "turkish": "Çözmek",
+    "level": "B1"
+  },
+  {
+    "english": "Improve",
+    "turkish": "Geliştirmek",
+    "level": "B1"
+  },
+  {
+    "english": "Increase",
+    "turkish": "Artırmak",
+    "level": "B1"
+  },
+  {
+    "english": "Decrease",
+    "turkish": "Azaltmak",
+    "level": "B1"
+  },
+  {
+    "english": "Reduce",
+    "turkish": "Azaltmak",
+    "level": "B1"
+  },
+  {
+    "english": "Develop",
+    "turkish": "Geliştirmek",
+    "level": "B1"
+  },
+  {
+    "english": "Progress",
+    "turkish": "İlerleme",
+    "level": "B1"
+  },
+  {
+    "english": "Change",
+    "turkish": "Değişim/Değiştirmek",
+    "level": "B1"
+  },
+  {
+    "english": "Affect",
+    "turkish": "Etkilemek",
+    "level": "B1"
+  },
+  {
+    "english": "Influence",
+    "turkish": "Etki/Etkilemek",
+    "level": "B1"
+  },
+  {
+    "english": "Cause",
+    "turkish": "Neden/Sebep olmak",
+    "level": "B1"
+  },
+  {
+    "english": "Effect",
+    "turkish": "Etki",
+    "level": "B1"
+  },
+  {
+    "english": "Result",
+    "turkish": "Sonuç",
+    "level": "B1"
+  },
+  {
+    "english": "Reason",
+    "turkish": "Sebep",
+    "level": "B1"
+  },
+  {
+    "english": "Purpose",
+    "turkish": "Amaç",
+    "level": "B1"
+  },
+  {
+    "english": "Method",
+    "turkish": "Yöntem",
+    "level": "B1"
+  },
+  {
+    "english": "Process",
+    "turkish": "Süreç",
+    "level": "B1"
+  },
+  {
+    "english": "System",
+    "turkish": "Sistem",
+    "level": "B1"
+  },
+  {
+    "english": "Structure",
+    "turkish": "Yapı",
+    "level": "B1"
+  },
+  {
+    "english": "Function",
+    "turkish": "İşlev",
+    "level": "B1"
+  },
+  {
+    "english": "Behaviour",
+    "turkish": "Davranış",
+    "level": "B1"
+  },
+  {
+    "english": "Attitude",
+    "turkish": "Tutum",
+    "level": "B1"
+  },
+  {
+    "english": "Personality",
+    "turkish": "Kişilik",
+    "level": "B1"
+  },
+  {
+    "english": "Character",
+    "turkish": "Karakter",
+    "level": "B1"
+  },
+  {
+    "english": "Emotion",
+    "turkish": "Duygu",
+    "level": "B1"
+  },
+  {
+    "english": "Feeling",
+    "turkish": "His/Duygu",
+    "level": "B1"
+  },
+  {
+    "english": "Relationship",
+    "turkish": "İlişki",
+    "level": "B1"
+  },
+  {
+    "english": "Marriage",
+    "turkish": "Evlilik",
+    "level": "B1"
+  },
+  {
+    "english": "Divorce",
+    "turkish": "Boşanma",
+    "level": "B1"
+  },
+  {
+    "english": "Argue",
+    "turkish": "Tartışmak",
+    "level": "B1"
+  },
+  {
+    "english": "Agree",
+    "turkish": "Katılmak/Aynı fikirde olmak",
+    "level": "B1"
+  },
+  {
+    "english": "Disagree",
+    "turkish": "Aynı fikirde olmamak",
+    "level": "B1"
+  },
+  {
+    "english": "Support",
+    "turkish": "Destek/Desteklemek",
+    "level": "B1"
+  },
+  {
+    "english": "Encourage",
+    "turkish": "Cesaretlendirmek",
+    "level": "B1"
+  },
+  {
+    "english": "Discourage",
+    "turkish": "Cesaretini kırmak",
+    "level": "B1"
+  },
+  {
+    "english": "Advice",
+    "turkish": "Tavsiye",
+    "level": "B1"
+  },
+  {
+    "english": "Suggest",
+    "turkish": "Önermek",
+    "level": "B1"
+  },
+  {
+    "english": "Recommend",
+    "turkish": "Tavsiye etmek",
+    "level": "B1"
+  },
+  {
+    "english": "Warn",
+    "turkish": "Uyarmak",
+    "level": "B1"
+  },
+  {
+    "english": "Complain",
+    "turkish": "Şikayet etmek",
+    "level": "B1"
+  },
+  {
+    "english": "Apologise",
+    "turkish": "Özür dilemek",
+    "level": "B1"
+  },
+  {
+    "english": "Forgive",
+    "turkish": "Affetmek",
+    "level": "B1"
+  },
+  {
+    "english": "Trust",
+    "turkish": "Güven/Güvenmek",
+    "level": "B1"
+  },
+  {
+    "english": "Doubt",
+    "turkish": "Şüphe",
+    "level": "B1"
+  },
+  {
+    "english": "Believe",
+    "turkish": "İnanmak",
+    "level": "B1"
+  },
+  {
+    "english": "Expect",
+    "turkish": "Beklemek",
+    "level": "B1"
+  },
+  {
+    "english": "Imagine",
+    "turkish": "Hayal etmek",
+    "level": "B1"
+  },
+  {
+    "english": "Suppose",
+    "turkish": "Varsaymak",
+    "level": "B1"
+  },
+  {
+    "english": "Realise",
+    "turkish": "Fark etmek",
+    "level": "B1"
+  },
+  {
+    "english": "Notice",
+    "turkish": "Fark etmek",
+    "level": "B1"
+  },
+  {
+    "english": "Recognise",
+    "turkish": "Tanımak",
+    "level": "B1"
+  },
+  {
+    "english": "Remember",
+    "turkish": "Hatırlamak",
+    "level": "B1"
+  },
+  {
+    "english": "Forget",
+    "turkish": "Unutmak",
+    "level": "B1"
+  },
+  {
+    "english": "Remind",
+    "turkish": "Hatırlatmak",
+    "level": "B1"
+  },
+  {
+    "english": "Explain",
+    "turkish": "Açıklamak",
+    "level": "B1"
+  },
+  {
+    "english": "Describe",
+    "turkish": "Tarif etmek",
+    "level": "B1"
+  },
+  {
+    "english": "Compare",
+    "turkish": "Karşılaştırmak",
+    "level": "B1"
+  },
+  {
+    "english": "Contrast",
+    "turkish": "Zıtlık/Karşılaştırmak",
+    "level": "B1"
+  },
+  {
+    "english": "Analyse",
+    "turkish": "Analiz etmek",
+    "level": "B1"
+  },
+  {
+    "english": "Examine",
+    "turkish": "İncelemek",
+    "level": "B1"
+  },
+  {
+    "english": "Investigate",
+    "turkish": "Araştırmak",
+    "level": "B1"
+  },
+  {
+    "english": "Discover",
+    "turkish": "Keşfetmek",
+    "level": "B1"
+  },
+  {
+    "english": "Explore",
+    "turkish": "Keşfetmek/Araştırmak",
+    "level": "B1"
+  },
+  {
+    "english": "Prove",
+    "turkish": "Kanıtlamak",
+    "level": "B1"
+  },
+  {
+    "english": "Confirm",
+    "turkish": "Doğrulamak",
+    "level": "B1"
+  },
+  {
+    "english": "Deny",
+    "turkish": "İnkar etmek",
+    "level": "B1"
+  },
+  {
+    "english": "Admit",
+    "turkish": "Kabul etmek",
+    "level": "B1"
+  },
+  {
+    "english": "Refuse",
+    "turkish": "Reddetmek",
+    "level": "B1"
+  },
+  {
+    "english": "Accept",
+    "turkish": "Kabul etmek",
+    "level": "B1"
+  },
+  {
+    "english": "Reject",
+    "turkish": "Reddetmek",
+    "level": "B1"
+  },
+  {
+    "english": "Allow",
+    "turkish": "İzin vermek",
+    "level": "B1"
+  },
+  {
+    "english": "Forbid",
+    "turkish": "Yasaklamak",
+    "level": "B1"
+  },
+  {
+    "english": "Permit",
+    "turkish": "İzin vermek",
+    "level": "B1"
+  },
+  {
+    "english": "Require",
+    "turkish": "Gerektirmek",
+    "level": "B1"
+  },
+  {
+    "english": "Demand",
+    "turkish": "Talep etmek",
+    "level": "B1"
+  },
+  {
+    "english": "Provide",
+    "turkish": "Sağlamak",
+    "level": "B1"
+  },
+  {
+    "english": "Supply",
+    "turkish": "Tedarik etmek",
+    "level": "B1"
+  },
+  {
+    "english": "Offer",
+    "turkish": "Teklif etmek",
+    "level": "B1"
+  },
+  {
+    "english": "Deliver",
+    "turkish": "Teslim etmek",
+    "level": "B1"
+  },
+  {
+    "english": "Achieve",
+    "turkish": "Başarmak",
+    "level": "B1"
+  },
+  {
+    "english": "Manage",
+    "turkish": "Yönetmek/Başarmak",
+    "level": "B1"
+  },
+  {
+    "english": "Organise",
+    "turkish": "Organize etmek",
+    "level": "B1"
+  },
+  {
+    "english": "Arrange",
+    "turkish": "Düzenlemek",
+    "level": "B1"
+  },
+  {
+    "english": "Prepare",
+    "turkish": "Hazırlamak",
+    "level": "B1"
+  },
+  {
+    "english": "Plan",
+    "turkish": "Plan/Planlamak",
+    "level": "B1"
+  },
+  {
+    "english": "Design",
+    "turkish": "Tasarım/Tasarlamak",
+    "level": "B1"
+  },
+  {
+    "english": "Create",
+    "turkish": "Yaratmak",
+    "level": "B1"
+  },
+  {
+    "english": "Produce",
+    "turkish": "Üretmek",
+    "level": "B1"
+  },
+  {
+    "english": "Build",
+    "turkish": "İnşa etmek",
+    "level": "B1"
+  },
+  {
+    "english": "Construct",
+    "turkish": "İnşa etmek",
+    "level": "B1"
+  },
+  {
+    "english": "Destroy",
+    "turkish": "Yok etmek",
+    "level": "B1"
+  },
+  {
+    "english": "Break",
+    "turkish": "Kırmak",
+    "level": "B1"
+  },
+  {
+    "english": "Repair",
+    "turkish": "Onarmak",
+    "level": "B1"
+  },
+  {
+    "english": "Fix",
+    "turkish": "Tamir etmek",
+    "level": "B1"
+  },
+  {
+    "english": "Replace",
+    "turkish": "Değiştirmek (yerine koymak)",
+    "level": "B1"
+  },
+  {
+    "english": "Achievement gap",
+    "turkish": "Başarı farkı",
+    "level": "B2"
+  },
+  {
+    "english": "Ambition",
+    "turkish": "Hırs/Emel",
+    "level": "B2"
+  },
+  {
+    "english": "Anxiety",
+    "turkish": "Kaygı",
+    "level": "B2"
+  },
+  {
+    "english": "Assumption",
+    "turkish": "Varsayım",
+    "level": "B2"
+  },
+  {
+    "english": "Awareness",
+    "turkish": "Farkındalık",
+    "level": "B2"
+  },
+  {
+    "english": "Behalf",
+    "turkish": "Adına/Namına",
+    "level": "B2"
+  },
+  {
+    "english": "Bias",
+    "turkish": "Önyargı",
+    "level": "B2"
+  },
+  {
+    "english": "Boundary",
+    "turkish": "Sınır",
+    "level": "B2"
+  },
+  {
+    "english": "Circumstance",
+    "turkish": "Koşul/Durum",
+    "level": "B2"
+  },
+  {
+    "english": "Consequence",
+    "turkish": "Sonuç",
+    "level": "B2"
+  },
+  {
+    "english": "Contribution",
+    "turkish": "Katkı",
+    "level": "B2"
+  },
+  {
+    "english": "Controversy",
+    "turkish": "Tartışma/Anlaşmazlık",
+    "level": "B2"
+  },
+  {
+    "english": "Correlation",
+    "turkish": "Korelasyon",
+    "level": "B2"
+  },
+  {
+    "english": "Credibility",
+    "turkish": "Güvenilirlik",
+    "level": "B2"
+  },
+  {
+    "english": "Criteria",
+    "turkish": "Kriterler",
+    "level": "B2"
+  },
+  {
+    "english": "Curiosity",
+    "turkish": "Merak",
+    "level": "B2"
+  },
+  {
+    "english": "Debate",
+    "turkish": "Tartışma",
+    "level": "B2"
+  },
+  {
+    "english": "Dedication",
+    "turkish": "Adanmışlık",
+    "level": "B2"
+  },
+  {
+    "english": "Dilemma",
+    "turkish": "İkilem",
+    "level": "B2"
+  },
+  {
+    "english": "Discrimination",
+    "turkish": "Ayrımcılık",
+    "level": "B2"
+  },
+  {
+    "english": "Diversity",
+    "turkish": "Çeşitlilik",
+    "level": "B2"
+  },
+  {
+    "english": "Efficiency",
+    "turkish": "Verimlilik",
+    "level": "B2"
+  },
+  {
+    "english": "Empathy",
+    "turkish": "Empati",
+    "level": "B2"
+  },
+  {
+    "english": "Endeavor",
+    "turkish": "Girişim/Çaba",
+    "level": "B2"
+  },
+  {
+    "english": "Enthusiasm",
+    "turkish": "Coşku/Hevesr",
+    "level": "B2"
+  },
+  {
+    "english": "Ethic",
+    "turkish": "Etik",
+    "level": "B2"
+  },
+  {
+    "english": "Evolve",
+    "turkish": "Evrimleşmek/Gelişmek",
+    "level": "B2"
+  },
+  {
+    "english": "Exaggerate",
+    "turkish": "Abartmak",
+    "level": "B2"
+  },
+  {
+    "english": "Excessive",
+    "turkish": "Aşırı",
+    "level": "B2"
+  },
+  {
+    "english": "Exclude",
+    "turkish": "Hariç tutmak",
+    "level": "B2"
+  },
+  {
+    "english": "Expand",
+    "turkish": "Genişletmek",
+    "level": "B2"
+  },
+  {
+    "english": "Exploit",
+    "turkish": "Sömürmek/İstismar etmek",
+    "level": "B2"
+  },
+  {
+    "english": "Facilitate",
+    "turkish": "Kolaylaştırmak",
+    "level": "B2"
+  },
+  {
+    "english": "Fluctuate",
+    "turkish": "Dalgalanmak",
+    "level": "B2"
+  },
+  {
+    "english": "Fundamental",
+    "turkish": "Temel",
+    "level": "B2"
+  },
+  {
+    "english": "Generosity",
+    "turkish": "Cömertlik",
+    "level": "B2"
+  },
+  {
+    "english": "Genuine",
+    "turkish": "Gerçek/Samimi",
+    "level": "B2"
+  },
+  {
+    "english": "Grant",
+    "turkish": "Bağış/Vermek",
+    "level": "B2"
+  },
+  {
+    "english": "Hesitate",
+    "turkish": "Tereddüt etmek",
+    "level": "B2"
+  },
+  {
+    "english": "Hierarchy",
+    "turkish": "Hiyerarşi",
+    "level": "B2"
+  },
+  {
+    "english": "Hypothesis",
+    "turkish": "Hipotez",
+    "level": "B2"
+  },
+  {
+    "english": "Identical",
+    "turkish": "Aynı/Özdeş",
+    "level": "B2"
+  },
+  {
+    "english": "Ideology",
+    "turkish": "İdeoloji",
+    "level": "B2"
+  },
+  {
+    "english": "Illustrate",
+    "turkish": "Örneklendirmek",
+    "level": "B2"
+  },
+  {
+    "english": "Immense",
+    "turkish": "Muazzam/Çok büyük",
+    "level": "B2"
+  },
+  {
+    "english": "Implement",
+    "turkish": "Uygulamak",
+    "level": "B2"
+  },
+  {
+    "english": "Imply",
+    "turkish": "İma etmek",
+    "level": "B2"
+  },
+  {
+    "english": "Incentive",
+    "turkish": "Teşvik",
+    "level": "B2"
+  },
+  {
+    "english": "Incorporate",
+    "turkish": "Dahil etmek",
+    "level": "B2"
+  },
+  {
+    "english": "Indicate",
+    "turkish": "Göstermek/Belirtmek",
+    "level": "B2"
+  },
+  {
+    "english": "Inevitable",
+    "turkish": "Kaçınılmaz",
+    "level": "B2"
+  },
+  {
+    "english": "Inherit",
+    "turkish": "Miras almak",
+    "level": "B2"
+  },
+  {
+    "english": "Initiative",
+    "turkish": "Girişim",
+    "level": "B2"
+  },
+  {
+    "english": "Innovate",
+    "turkish": "Yenilik yapmak",
+    "level": "B2"
+  },
+  {
+    "english": "Insight",
+    "turkish": "İç görü",
+    "level": "B2"
+  },
+  {
+    "english": "Integrate",
+    "turkish": "Bütünleştirmek",
+    "level": "B2"
+  },
+  {
+    "english": "Intense",
+    "turkish": "Yoğun",
+    "level": "B2"
+  },
+  {
+    "english": "Interpret",
+    "turkish": "Yorumlamak",
+    "level": "B2"
+  },
+  {
+    "english": "Intervene",
+    "turkish": "Müdahale etmek",
+    "level": "B2"
+  },
+  {
+    "english": "Justify",
+    "turkish": "Haklı çıkarmak",
+    "level": "B2"
+  },
+  {
+    "english": "Legitimate",
+    "turkish": "Meşru",
+    "level": "B2"
+  },
+  {
+    "english": "Liability",
+    "turkish": "Sorumluluk/Yükümlülük",
+    "level": "B2"
+  },
+  {
+    "english": "Manipulate",
+    "turkish": "Manipüle etmek",
+    "level": "B2"
+  },
+  {
+    "english": "Mature",
+    "turkish": "Olgun",
+    "level": "B2"
+  },
+  {
+    "english": "Mediate",
+    "turkish": "Arabuluculuk yapmak",
+    "level": "B2"
+  },
+  {
+    "english": "Minimise",
+    "turkish": "Asgariye indirmek",
+    "level": "B2"
+  },
+  {
+    "english": "Motivate",
+    "turkish": "Motive etmek",
+    "level": "B2"
+  },
+  {
+    "english": "Negotiate",
+    "turkish": "Müzakere etmek",
+    "level": "B2"
+  },
+  {
+    "english": "Notable",
+    "turkish": "Dikkat çekici/Önemli",
+    "level": "B2"
+  },
+  {
+    "english": "Objective",
+    "turkish": "Amaç/Tarafsız",
+    "level": "B2"
+  },
+  {
+    "english": "Obstacle",
+    "turkish": "Engel",
+    "level": "B2"
+  },
+  {
+    "english": "Occupy",
+    "turkish": "İşgal etmek/Meşgul etmek",
+    "level": "B2"
+  },
+  {
+    "english": "Optimistic",
+    "turkish": "İyimser",
+    "level": "B2"
+  },
+  {
+    "english": "Outcome",
+    "turkish": "Sonuç",
+    "level": "B2"
+  },
+  {
+    "english": "Outstanding",
+    "turkish": "Olağanüstü",
+    "level": "B2"
+  },
+  {
+    "english": "Overwhelm",
+    "turkish": "Bunaltmak",
+    "level": "B2"
+  },
+  {
+    "english": "Perceive",
+    "turkish": "Algılamak",
+    "level": "B2"
+  },
+  {
+    "english": "Perspective",
+    "turkish": "Bakış açısı",
+    "level": "B2"
+  },
+  {
+    "english": "Persuade",
+    "turkish": "İkna etmek",
+    "level": "B2"
+  },
+  {
+    "english": "Phenomenon",
+    "turkish": "Fenomen",
+    "level": "B2"
+  },
+  {
+    "english": "Potential",
+    "turkish": "Potansiyel",
+    "level": "B2"
+  },
+  {
+    "english": "Precise",
+    "turkish": "Kesin/Hassas",
+    "level": "B2"
+  },
+  {
+    "english": "Predict",
+    "turkish": "Tahmin etmek",
+    "level": "B2"
+  },
+  {
+    "english": "Prejudice",
+    "turkish": "Önyargı",
+    "level": "B2"
+  },
+  {
+    "english": "Presume",
+    "turkish": "Varsaymak",
+    "level": "B2"
+  },
+  {
+    "english": "Priority",
+    "turkish": "Öncelik",
+    "level": "B2"
+  },
+  {
+    "english": "Proportion",
+    "turkish": "Oran",
+    "level": "B2"
+  },
+  {
+    "english": "Prospect",
+    "turkish": "Olasılık/Beklenti",
+    "level": "B2"
+  },
+  {
+    "english": "Provoke",
+    "turkish": "Kışkırtmak",
+    "level": "B2"
+  },
+  {
+    "english": "Rational",
+    "turkish": "Mantıklı",
+    "level": "B2"
+  },
+  {
+    "english": "Reinforce",
+    "turkish": "Güçlendirmek",
+    "level": "B2"
+  },
+  {
+    "english": "Reluctant",
+    "turkish": "İsteksiz",
+    "level": "B2"
+  },
+  {
+    "english": "Restrict",
+    "turkish": "Kısıtlamak",
+    "level": "B2"
+  },
+  {
+    "english": "Reveal",
+    "turkish": "Ortaya çıkarmak",
+    "level": "B2"
+  },
+  {
+    "english": "Rigid",
+    "turkish": "Katı/Esnek olmayan",
+    "level": "B2"
+  },
+  {
+    "english": "Sceptical",
+    "turkish": "Şüpheci",
+    "level": "B2"
+  },
+  {
+    "english": "Scope",
+    "turkish": "Kapsam",
+    "level": "B2"
+  },
+  {
+    "english": "Sequence",
+    "turkish": "Sıra/Dizi",
+    "level": "B2"
+  },
+  {
+    "english": "Significant",
+    "turkish": "Önemli",
+    "level": "B2"
+  },
+  {
+    "english": "Simultaneous",
+    "turkish": "Eşzamanlı",
+    "level": "B2"
+  },
+  {
+    "english": "Skeptic",
+    "turkish": "Şüpheci",
+    "level": "B2"
+  },
+  {
+    "english": "Sophisticated",
+    "turkish": "Gelişmiş/Sofistike",
+    "level": "B2"
+  },
+  {
+    "english": "Spontaneous",
+    "turkish": "Kendiliğinden",
+    "level": "B2"
+  },
+  {
+    "english": "Stability",
+    "turkish": "İstikrar",
+    "level": "B2"
+  },
+  {
+    "english": "Statistic",
+    "turkish": "İstatistik",
+    "level": "B2"
+  },
+  {
+    "english": "Strategy",
+    "turkish": "Strateji",
+    "level": "B2"
+  },
+  {
+    "english": "Subsequent",
+    "turkish": "Sonraki",
+    "level": "B2"
+  },
+  {
+    "english": "Substantial",
+    "turkish": "Önemli/Büyük",
+    "level": "B2"
+  },
+  {
+    "english": "Sufficient",
+    "turkish": "Yeterli",
+    "level": "B2"
+  },
+  {
+    "english": "Sustain",
+    "turkish": "Sürdürmek",
+    "level": "B2"
+  },
+  {
+    "english": "Tendency",
+    "turkish": "Eğilim",
+    "level": "B2"
+  },
+  {
+    "english": "Tension",
+    "turkish": "Gerilim",
+    "level": "B2"
+  },
+  {
+    "english": "Theoretical",
+    "turkish": "Kuramsal",
+    "level": "B2"
+  },
+  {
+    "english": "Thorough",
+    "turkish": "Kapsamlı/Titiz",
+    "level": "B2"
+  },
+  {
+    "english": "Transform",
+    "turkish": "Dönüştürmek",
+    "level": "B2"
+  },
+  {
+    "english": "Ultimate",
+    "turkish": "Nihai",
+    "level": "B2"
+  },
+  {
+    "english": "Undermine",
+    "turkish": "Zayıflatmak/Baltalamak",
+    "level": "B2"
+  },
+  {
+    "english": "Unify",
+    "turkish": "Birleştirmek",
+    "level": "B2"
+  },
+  {
+    "english": "Vague",
+    "turkish": "Belirsiz",
+    "level": "B2"
+  },
+  {
+    "english": "Valid",
+    "turkish": "Geçerli",
+    "level": "B2"
+  },
+  {
+    "english": "Verify",
+    "turkish": "Doğrulamak",
+    "level": "B2"
+  },
+  {
+    "english": "Virtually",
+    "turkish": "Neredeyse/Sanal olarak",
+    "level": "B2"
+  },
+  {
+    "english": "Vulnerable",
+    "turkish": "Savunmasız",
+    "level": "B2"
+  },
+  {
+    "english": "Widespread",
+    "turkish": "Yaygın",
+    "level": "B2"
+  },
+  {
+    "english": "Withdraw",
+    "turkish": "Geri çekmek",
+    "level": "B2"
+  },
+  {
+    "english": "Yield",
+    "turkish": "Vermek/Ürün vermek",
+    "level": "B2"
+  },
+  {
+    "english": "Accumulate",
+    "turkish": "Biriktirmek",
+    "level": "B2"
+  },
+  {
+    "english": "Adapt",
+    "turkish": "Uyum sağlamak",
+    "level": "B2"
+  },
+  {
+    "english": "Adequate",
+    "turkish": "Yeterli",
+    "level": "B2"
+  },
+  {
+    "english": "Advocate",
+    "turkish": "Savunmak",
+    "level": "B2"
+  },
+  {
+    "english": "Aggregate",
+    "turkish": "Toplam/Bütün",
+    "level": "B2"
+  },
+  {
+    "english": "Allocate",
+    "turkish": "Tahsis etmek",
+    "level": "B2"
+  },
+  {
+    "english": "Anticipate",
+    "turkish": "Öngörmek",
+    "level": "B2"
+  },
+  {
+    "english": "Appropriate",
+    "turkish": "Uygun",
+    "level": "B2"
+  },
+  {
+    "english": "Arbitrary",
+    "turkish": "Keyfi",
+    "level": "B2"
+  },
+  {
+    "english": "Assess",
+    "turkish": "Değerlendirmek",
+    "level": "B2"
+  },
+  {
+    "english": "Assign",
+    "turkish": "Atamak",
+    "level": "B2"
+  },
+  {
+    "english": "Assume",
+    "turkish": "Varsaymak",
+    "level": "B2"
+  },
+  {
+    "english": "Attain",
+    "turkish": "Elde etmek",
+    "level": "B2"
+  },
+  {
+    "english": "Abolish",
+    "turkish": "Kaldırmak/Yürürlükten kaldırmak",
+    "level": "C1"
+  },
+  {
+    "english": "Aggravate",
+    "turkish": "Kötüleştirmek",
+    "level": "C1"
+  },
+  {
+    "english": "Ambiguous",
+    "turkish": "Muğlak/Belirsiz",
+    "level": "C1"
+  },
+  {
+    "english": "Anomaly",
+    "turkish": "Anomali/Sapma",
+    "level": "C1"
+  },
+  {
+    "english": "Antagonize",
+    "turkish": "Karşı karşıya getirmek",
+    "level": "C1"
+  },
+  {
+    "english": "Apathy",
+    "turkish": "Kayıtsızlık",
+    "level": "C1"
+  },
+  {
+    "english": "Arbitrate",
+    "turkish": "Hakemlik yapmak",
+    "level": "C1"
+  },
+  {
+    "english": "Articulate",
+    "turkish": "Açıkça ifade etmek",
+    "level": "C1"
+  },
+  {
+    "english": "Assimilate",
+    "turkish": "Özümsemek",
+    "level": "C1"
+  },
+  {
+    "english": "Astute",
+    "turkish": "Zeki/Kurnaz",
+    "level": "C1"
+  },
+  {
+    "english": "Autonomy",
+    "turkish": "Özerklik",
+    "level": "C1"
+  },
+  {
+    "english": "Belligerent",
+    "turkish": "Kavgacı/Saldırgan",
+    "level": "C1"
+  },
+  {
+    "english": "Benevolent",
+    "turkish": "Hayırsever",
+    "level": "C1"
+  },
+  {
+    "english": "Candid",
+    "turkish": "Samimi/Açık sözlü",
+    "level": "C1"
+  },
+  {
+    "english": "Catalyst",
+    "turkish": "Katalizör",
+    "level": "C1"
+  },
+  {
+    "english": "Circumvent",
+    "turkish": "Aşmak/Bertaraf etmek",
+    "level": "C1"
+  },
+  {
+    "english": "Coherent",
+    "turkish": "Tutarlı",
+    "level": "C1"
+  },
+  {
+    "english": "Collateral",
+    "turkish": "Teminat/Yan",
+    "level": "C1"
+  },
+  {
+    "english": "Complacent",
+    "turkish": "Kendinden fazla emin",
+    "level": "C1"
+  },
+  {
+    "english": "Compliance",
+    "turkish": "Uyum/Uyma",
+    "level": "C1"
+  },
+  {
+    "english": "Comprehensive",
+    "turkish": "Kapsamlı",
+    "level": "C1"
+  },
+  {
+    "english": "Concede",
+    "turkish": "Kabul etmek/Taviz vermek",
+    "level": "C1"
+  },
+  {
+    "english": "Conducive",
+    "turkish": "Elverişli",
+    "level": "C1"
+  },
+  {
+    "english": "Configure",
+    "turkish": "Yapılandırmak",
+    "level": "C1"
+  },
+  {
+    "english": "Conform",
+    "turkish": "Uymak",
+    "level": "C1"
+  },
+  {
+    "english": "Connotation",
+    "turkish": "Yan anlam",
+    "level": "C1"
+  },
+  {
+    "english": "Conscientious",
+    "turkish": "Vicdanlı/Titiz",
+    "level": "C1"
+  },
+  {
+    "english": "Consolidate",
+    "turkish": "Sağlamlaştırmak",
+    "level": "C1"
+  },
+  {
+    "english": "Constrain",
+    "turkish": "Kısıtlamak",
+    "level": "C1"
+  },
+  {
+    "english": "Contemplate",
+    "turkish": "Düşünüp taşınmak",
+    "level": "C1"
+  },
+  {
+    "english": "Contentious",
+    "turkish": "Tartışmalı",
+    "level": "C1"
+  },
+  {
+    "english": "Convoluted",
+    "turkish": "Karmaşık/Çapraşık",
+    "level": "C1"
+  },
+  {
+    "english": "Corroborate",
+    "turkish": "Doğrulamak/Desteklemek",
+    "level": "C1"
+  },
+  {
+    "english": "Counterpart",
+    "turkish": "Emsal/Muadil",
+    "level": "C1"
+  },
+  {
+    "english": "Culminate",
+    "turkish": "Doruğa ulaşmak",
+    "level": "C1"
+  },
+  {
+    "english": "Cumulative",
+    "turkish": "Birikimli",
+    "level": "C1"
+  },
+  {
+    "english": "Deceptive",
+    "turkish": "Aldatıcı",
+    "level": "C1"
+  },
+  {
+    "english": "Deficient",
+    "turkish": "Eksik/Yetersiz",
+    "level": "C1"
+  },
+  {
+    "english": "Degrade",
+    "turkish": "Bozmak/Alçaltmak",
+    "level": "C1"
+  },
+  {
+    "english": "Deplete",
+    "turkish": "Tüketmek/Azaltmak",
+    "level": "C1"
+  },
+  {
+    "english": "Deploy",
+    "turkish": "Konuşlandırmak",
+    "level": "C1"
+  },
+  {
+    "english": "Deprive",
+    "turkish": "Mahrum bırakmak",
+    "level": "C1"
+  },
+  {
+    "english": "Derive",
+    "turkish": "Türetmek",
+    "level": "C1"
+  },
+  {
+    "english": "Detrimental",
+    "turkish": "Zararlı",
+    "level": "C1"
+  },
+  {
+    "english": "Diminish",
+    "turkish": "Azaltmak",
+    "level": "C1"
+  },
+  {
+    "english": "Discern",
+    "turkish": "Ayırt etmek",
+    "level": "C1"
+  },
+  {
+    "english": "Discrepancy",
+    "turkish": "Tutarsızlık",
+    "level": "C1"
+  },
+  {
+    "english": "Disparity",
+    "turkish": "Eşitsizlik/Fark",
+    "level": "C1"
+  },
+  {
+    "english": "Dispute",
+    "turkish": "Anlaşmazlık/İtiraz etmek",
+    "level": "C1"
+  },
+  {
+    "english": "Disseminate",
+    "turkish": "Yaymak",
+    "level": "C1"
+  },
+  {
+    "english": "Distort",
+    "turkish": "Çarpıtmak",
+    "level": "C1"
+  },
+  {
+    "english": "Diverge",
+    "turkish": "Ayrılmak/Farklılaşmak",
+    "level": "C1"
+  },
+  {
+    "english": "Dominant",
+    "turkish": "Baskın",
+    "level": "C1"
+  },
+  {
+    "english": "Dubious",
+    "turkish": "Şüpheli",
+    "level": "C1"
+  },
+  {
+    "english": "Eclectic",
+    "turkish": "Seçmeci",
+    "level": "C1"
+  },
+  {
+    "english": "Elaborate",
+    "turkish": "Ayrıntılı/Detaylandırmak",
+    "level": "C1"
+  },
+  {
+    "english": "Eloquent",
+    "turkish": "Etkili konuşan",
+    "level": "C1"
+  },
+  {
+    "english": "Elusive",
+    "turkish": "Ele geçmez/Anlaşılması zor",
+    "level": "C1"
+  },
+  {
+    "english": "Embody",
+    "turkish": "Somutlaştırmak",
+    "level": "C1"
+  },
+  {
+    "english": "Empirical",
+    "turkish": "Deneysel",
+    "level": "C1"
+  },
+  {
+    "english": "Encompass",
+    "turkish": "Kapsamak",
+    "level": "C1"
+  },
+  {
+    "english": "Endorse",
+    "turkish": "Onaylamak/Desteklemek",
+    "level": "C1"
+  },
+  {
+    "english": "Enhance",
+    "turkish": "Geliştirmek/Artırmak",
+    "level": "C1"
+  },
+  {
+    "english": "Epitome",
+    "turkish": "Örnek/Vücut bulmuş hali",
+    "level": "C1"
+  },
+  {
+    "english": "Equivocal",
+    "turkish": "İki anlamlı/Belirsiz",
+    "level": "C1"
+  },
+  {
+    "english": "Erode",
+    "turkish": "Aşındırmak",
+    "level": "C1"
+  },
+  {
+    "english": "Escalate",
+    "turkish": "Tırmandırmak",
+    "level": "C1"
+  },
+  {
+    "english": "Exemplify",
+    "turkish": "Örneklendirmek",
+    "level": "C1"
+  },
+  {
+    "english": "Exert",
+    "turkish": "Uygulamak/Sarf etmek",
+    "level": "C1"
+  },
+  {
+    "english": "Explicit",
+    "turkish": "Açık/Kesin",
+    "level": "C1"
+  },
+  {
+    "english": "Extrapolate",
+    "turkish": "Tahmin yoluyla genişletmek",
+    "level": "C1"
+  },
+  {
+    "english": "Fabricate",
+    "turkish": "Uydurmak",
+    "level": "C1"
+  },
+  {
+    "english": "Facet",
+    "turkish": "Yön/Cephe",
+    "level": "C1"
+  },
+  {
+    "english": "Feasible",
+    "turkish": "Uygulanabilir",
+    "level": "C1"
+  },
+  {
+    "english": "Fluctuation",
+    "turkish": "Dalgalanma",
+    "level": "C1"
+  },
+  {
+    "english": "Formidable",
+    "turkish": "Ürkütücü/Etkileyici",
+    "level": "C1"
+  },
+  {
+    "english": "Fortify",
+    "turkish": "Güçlendirmek",
+    "level": "C1"
+  },
+  {
+    "english": "Fragmented",
+    "turkish": "Parçalanmış",
+    "level": "C1"
+  },
+  {
+    "english": "Frivolous",
+    "turkish": "Anlamsız/Önemsiz",
+    "level": "C1"
+  },
+  {
+    "english": "Galvanize",
+    "turkish": "Harekete geçirmek",
+    "level": "C1"
+  },
+  {
+    "english": "Grapple",
+    "turkish": "Boğuşmak/Uğraşmak",
+    "level": "C1"
+  },
+  {
+    "english": "Hamper",
+    "turkish": "Engellemek",
+    "level": "C1"
+  },
+  {
+    "english": "Harbor",
+    "turkish": "Barındırmak/Beslemek",
+    "level": "C1"
+  },
+  {
+    "english": "Hinder",
+    "turkish": "Engellemek",
+    "level": "C1"
+  },
+  {
+    "english": "Homogeneous",
+    "turkish": "Homojen",
+    "level": "C1"
+  },
+  {
+    "english": "Impede",
+    "turkish": "Engellemek",
+    "level": "C1"
+  },
+  {
+    "english": "Imperative",
+    "turkish": "Zorunlu/Kesin gerekli",
+    "level": "C1"
+  },
+  {
+    "english": "Implicit",
+    "turkish": "Örtük",
+    "level": "C1"
+  },
+  {
+    "english": "Impose",
+    "turkish": "Dayatmak",
+    "level": "C1"
+  },
+  {
+    "english": "Inadvertent",
+    "turkish": "Kasıtsız",
+    "level": "C1"
+  },
+  {
+    "english": "Incessant",
+    "turkish": "Aralıksız",
+    "level": "C1"
+  },
+  {
+    "english": "Inclination",
+    "turkish": "Eğilim",
+    "level": "C1"
+  },
+  {
+    "english": "Incompatible",
+    "turkish": "Uyumsuz",
+    "level": "C1"
+  },
+  {
+    "english": "Inconceivable",
+    "turkish": "Akıl almaz",
+    "level": "C1"
+  },
+  {
+    "english": "Indispensable",
+    "turkish": "Vazgeçilmez",
+    "level": "C1"
+  },
+  {
+    "english": "Induce",
+    "turkish": "Neden olmak/İkna etmek",
+    "level": "C1"
+  },
+  {
+    "english": "Infer",
+    "turkish": "Çıkarım yapmak",
+    "level": "C1"
+  },
+  {
+    "english": "Inhibit",
+    "turkish": "Engellemek/Baskılamak",
+    "level": "C1"
+  },
+  {
+    "english": "Innate",
+    "turkish": "Doğuştan gelen",
+    "level": "C1"
+  },
+  {
+    "english": "Instigate",
+    "turkish": "Kışkırtmak/Başlatmak",
+    "level": "C1"
+  },
+  {
+    "english": "Integral",
+    "turkish": "Ayrılmaz/Bütünleyici",
+    "level": "C1"
+  },
+  {
+    "english": "Intricate",
+    "turkish": "Karmaşık",
+    "level": "C1"
+  },
+  {
+    "english": "Intrinsic",
+    "turkish": "İçsel/Doğal",
+    "level": "C1"
+  },
+  {
+    "english": "Invoke",
+    "turkish": "Çağırmak/Başvurmak",
+    "level": "C1"
+  },
+  {
+    "english": "Irrevocable",
+    "turkish": "Geri alınamaz",
+    "level": "C1"
+  },
+  {
+    "english": "Jeopardize",
+    "turkish": "Tehlikeye atmak",
+    "level": "C1"
+  },
+  {
+    "english": "Judicious",
+    "turkish": "Sağduyulu",
+    "level": "C1"
+  },
+  {
+    "english": "Lament",
+    "turkish": "Yakınmak/Feryat etmek",
+    "level": "C1"
+  },
+  {
+    "english": "Legislate",
+    "turkish": "Yasa çıkarmak",
+    "level": "C1"
+  },
+  {
+    "english": "Lucrative",
+    "turkish": "Kazançlı",
+    "level": "C1"
+  },
+  {
+    "english": "Malicious",
+    "turkish": "Kötü niyetli",
+    "level": "C1"
+  },
+  {
+    "english": "Meticulous",
+    "turkish": "Titiz",
+    "level": "C1"
+  },
+  {
+    "english": "Mitigate",
+    "turkish": "Hafifletmek",
+    "level": "C1"
+  },
+  {
+    "english": "Mundane",
+    "turkish": "Sıradan",
+    "level": "C1"
+  },
+  {
+    "english": "Nurture",
+    "turkish": "Beslemek/Yetiştirmek",
+    "level": "C1"
+  },
+  {
+    "english": "Obsolete",
+    "turkish": "Kullanım dışı/Modası geçmiş",
+    "level": "C1"
+  },
+  {
+    "english": "Paradox",
+    "turkish": "Paradoks",
+    "level": "C1"
+  },
+  {
+    "english": "Peripheral",
+    "turkish": "Çevresel/İkincil",
+    "level": "C1"
+  },
+  {
+    "english": "Pertinent",
+    "turkish": "İlgili/Alakalı",
+    "level": "C1"
+  },
+  {
+    "english": "Plausible",
+    "turkish": "Makul/İnandırıcı",
+    "level": "C1"
+  },
+  {
+    "english": "Precede",
+    "turkish": "Önce gelmek",
+    "level": "C1"
+  },
+  {
+    "english": "Precedent",
+    "turkish": "Emsal",
+    "level": "C1"
+  },
+  {
+    "english": "Prevalent",
+    "turkish": "Yaygın",
+    "level": "C1"
+  },
+  {
+    "english": "Pristine",
+    "turkish": "Bakir/El değmemiş",
+    "level": "C1"
+  },
+  {
+    "english": "Proficient",
+    "turkish": "Yetkin/Usta",
+    "level": "C1"
+  },
+  {
+    "english": "Prolific",
+    "turkish": "Verimli/Üretken",
+    "level": "C1"
+  },
+  {
+    "english": "Prominent",
+    "turkish": "Önde gelen/Belirgin",
+    "level": "C1"
+  },
+  {
+    "english": "Prudent",
+    "turkish": "İhtiyatlı",
+    "level": "C1"
+  },
+  {
+    "english": "Quandary",
+    "turkish": "İkilem/Çıkmaz",
+    "level": "C1"
+  },
+  {
+    "english": "Rebut",
+    "turkish": "Çürütmek",
+    "level": "C1"
+  },
+  {
+    "english": "Reciprocal",
+    "turkish": "Karşılıklı",
+    "level": "C1"
+  },
+  {
+    "english": "Redundant",
+    "turkish": "Gereksiz/Fazlalık",
+    "level": "C1"
+  },
+  {
+    "english": "Refute",
+    "turkish": "Çürütmek",
+    "level": "C1"
+  },
+  {
+    "english": "Acquiesce",
+    "turkish": "Boyun eğmek/Razı olmak",
+    "level": "C2"
+  },
+  {
+    "english": "Adroit",
+    "turkish": "Becerikli",
+    "level": "C2"
+  },
+  {
+    "english": "Alacrity",
+    "turkish": "İsteklilik/Çeviklik",
+    "level": "C2"
+  },
+  {
+    "english": "Ameliorate",
+    "turkish": "İyileştirmek",
+    "level": "C2"
+  },
+  {
+    "english": "Anathema",
+    "turkish": "Nefret edilen şey",
+    "level": "C2"
+  },
+  {
+    "english": "Antithesis",
+    "turkish": "Zıtlık/Karşıtlık",
+    "level": "C2"
+  },
+  {
+    "english": "Apocryphal",
+    "turkish": "Şüpheli/Uydurma",
+    "level": "C2"
+  },
+  {
+    "english": "Approbation",
+    "turkish": "Onay/Takdir",
+    "level": "C2"
+  },
+  {
+    "english": "Arcane",
+    "turkish": "Gizemli/Anlaşılması zor",
+    "level": "C2"
+  },
+  {
+    "english": "Assiduous",
+    "turkish": "Gayretli/Çalışkan",
+    "level": "C2"
+  },
+  {
+    "english": "Audacious",
+    "turkish": "Cüretkar",
+    "level": "C2"
+  },
+  {
+    "english": "Auspicious",
+    "turkish": "Hayırlı/Uğurlu",
+    "level": "C2"
+  },
+  {
+    "english": "Avarice",
+    "turkish": "Açgözlülük",
+    "level": "C2"
+  },
+  {
+    "english": "Belie",
+    "turkish": "Yanıltmak/Yalanlamak",
+    "level": "C2"
+  },
+  {
+    "english": "Bombastic",
+    "turkish": "Tumturaklı",
+    "level": "C2"
+  },
+  {
+    "english": "Brevity",
+    "turkish": "Kısalık/Özlülük",
+    "level": "C2"
+  },
+  {
+    "english": "Cacophony",
+    "turkish": "Kulak tırmalayan gürültü",
+    "level": "C2"
+  },
+  {
+    "english": "Capitulate",
+    "turkish": "Teslim olmak",
+    "level": "C2"
+  },
+  {
+    "english": "Castigate",
+    "turkish": "Şiddetle eleştirmek",
+    "level": "C2"
+  },
+  {
+    "english": "Chicanery",
+    "turkish": "Hile/Dolap",
+    "level": "C2"
+  },
+  {
+    "english": "Circumlocution",
+    "turkish": "Dolambaçlı anlatım",
+    "level": "C2"
+  },
+  {
+    "english": "Clandestine",
+    "turkish": "Gizli/El altından",
+    "level": "C2"
+  },
+  {
+    "english": "Cogent",
+    "turkish": "İkna edici",
+    "level": "C2"
+  },
+  {
+    "english": "Conflagration",
+    "turkish": "Büyük yangın",
+    "level": "C2"
+  },
+  {
+    "english": "Congruous",
+    "turkish": "Uyumlu",
+    "level": "C2"
+  },
+  {
+    "english": "Connive",
+    "turkish": "Göz yummak/Gizlice anlaşmak",
+    "level": "C2"
+  },
+  {
+    "english": "Contrite",
+    "turkish": "Pişman",
+    "level": "C2"
+  },
+  {
+    "english": "Convivial",
+    "turkish": "Neşeli/Cana yakın",
+    "level": "C2"
+  },
+  {
+    "english": "Copious",
+    "turkish": "Bol/Çok",
+    "level": "C2"
+  },
+  {
+    "english": "Corpulent",
+    "turkish": "Şişman/İri yarı",
+    "level": "C2"
+  },
+  {
+    "english": "Cursory",
+    "turkish": "Üstünkörü",
+    "level": "C2"
+  },
+  {
+    "english": "Debilitate",
+    "turkish": "Güçten düşürmek",
+    "level": "C2"
+  },
+  {
+    "english": "Decorous",
+    "turkish": "Nezih/Kurallara uygun",
+    "level": "C2"
+  },
+  {
+    "english": "Deleterious",
+    "turkish": "Zararlı",
+    "level": "C2"
+  },
+  {
+    "english": "Demur",
+    "turkish": "İtiraz etmek",
+    "level": "C2"
+  },
+  {
+    "english": "Denigrate",
+    "turkish": "Karalamak",
+    "level": "C2"
+  },
+  {
+    "english": "Deride",
+    "turkish": "Alay etmek",
+    "level": "C2"
+  },
+  {
+    "english": "Desultory",
+    "turkish": "Düzensiz/Amaçsız",
+    "level": "C2"
+  },
+  {
+    "english": "Diaphanous",
+    "turkish": "Şeffaf/İnce",
+    "level": "C2"
+  },
+  {
+    "english": "Didactic",
+    "turkish": "Öğretici",
+    "level": "C2"
+  },
+  {
+    "english": "Disparage",
+    "turkish": "Küçümsemek",
+    "level": "C2"
+  },
+  {
+    "english": "Ebullient",
+    "turkish": "Coşkulu",
+    "level": "C2"
+  },
+  {
+    "english": "Effrontery",
+    "turkish": "Yüzsüzlük",
+    "level": "C2"
+  },
+  {
+    "english": "Egregious",
+    "turkish": "Rezil/Göze batan",
+    "level": "C2"
+  },
+  {
+    "english": "Emollient",
+    "turkish": "Yatıştırıcı",
+    "level": "C2"
+  },
+  {
+    "english": "Enervate",
+    "turkish": "Güçten düşürmek",
+    "level": "C2"
+  },
+  {
+    "english": "Ephemeral",
+    "turkish": "Geçici/Kısa ömürlü",
+    "level": "C2"
+  },
+  {
+    "english": "Equanimity",
+    "turkish": "Sükunet",
+    "level": "C2"
+  },
+  {
+    "english": "Erudite",
+    "turkish": "Bilgili/Çok okumuş",
+    "level": "C2"
+  },
+  {
+    "english": "Esoteric",
+    "turkish": "Ezoterik/Az bilinen",
+    "level": "C2"
+  },
+  {
+    "english": "Euphemism",
+    "turkish": "Yumuşatılmış ifade",
+    "level": "C2"
+  },
+  {
+    "english": "Exculpate",
+    "turkish": "Suçsuz bulmak",
+    "level": "C2"
+  },
+  {
+    "english": "Exigent",
+    "turkish": "Acil/Zorlayıcı",
+    "level": "C2"
+  },
+  {
+    "english": "Extrapolation",
+    "turkish": "Genişletilmiş tahmin",
+    "level": "C2"
+  },
+  {
+    "english": "Facetious",
+    "turkish": "Şakacı/Ciddiyetsiz",
+    "level": "C2"
+  },
+  {
+    "english": "Fastidious",
+    "turkish": "Titiz/Zor beğenen",
+    "level": "C2"
+  },
+  {
+    "english": "Fatuous",
+    "turkish": "Aptalca",
+    "level": "C2"
+  },
+  {
+    "english": "Fecund",
+    "turkish": "Verimli/Bereketli",
+    "level": "C2"
+  },
+  {
+    "english": "Fortuitous",
+    "turkish": "Şans eseri",
+    "level": "C2"
+  },
+  {
+    "english": "Garrulous",
+    "turkish": "Geveze",
+    "level": "C2"
+  },
+  {
+    "english": "Gregarious",
+    "turkish": "Sosyal/Toplumcu",
+    "level": "C2"
+  },
+  {
+    "english": "Guile",
+    "turkish": "Kurnazlık/Hile",
+    "level": "C2"
+  },
+  {
+    "english": "Hackneyed",
+    "turkish": "Basmakalıp",
+    "level": "C2"
+  },
+  {
+    "english": "Hegemony",
+    "turkish": "Hegemonya/Üstünlük",
+    "level": "C2"
+  },
+  {
+    "english": "Iconoclast",
+    "turkish": "Yerleşik değerlere karşı çıkan",
+    "level": "C2"
+  },
+  {
+    "english": "Idiosyncrasy",
+    "turkish": "Kişiye özgü tuhaflık",
+    "level": "C2"
+  },
+  {
+    "english": "Ignominious",
+    "turkish": "Utanç verici",
+    "level": "C2"
+  },
+  {
+    "english": "Immutable",
+    "turkish": "Değişmez",
+    "level": "C2"
+  },
+  {
+    "english": "Impassive",
+    "turkish": "Duygusuz/Etkilenmeyen",
+    "level": "C2"
+  },
+  {
+    "english": "Impecunious",
+    "turkish": "Parasız/Fakir",
+    "level": "C2"
+  },
+  {
+    "english": "Imperturbable",
+    "turkish": "Sarsılmaz/Sakin",
+    "level": "C2"
+  },
+  {
+    "english": "Impetuous",
+    "turkish": "Aceleci/Düşüncesiz",
+    "level": "C2"
+  },
+  {
+    "english": "Inchoate",
+    "turkish": "Henüz gelişmemiş",
+    "level": "C2"
+  },
+  {
+    "english": "Incongruous",
+    "turkish": "Uyumsuz/Tutarsız",
+    "level": "C2"
+  },
+  {
+    "english": "Indefatigable",
+    "turkish": "Yorulmak bilmez",
+    "level": "C2"
+  },
+  {
+    "english": "Indolent",
+    "turkish": "Tembel",
+    "level": "C2"
+  },
+  {
+    "english": "Ineffable",
+    "turkish": "Anlatılamaz",
+    "level": "C2"
+  },
+  {
+    "english": "Ingenuous",
+    "turkish": "Saf/Toy",
+    "level": "C2"
+  },
+  {
+    "english": "Inimical",
+    "turkish": "Düşmanca",
+    "level": "C2"
+  },
+  {
+    "english": "Innocuous",
+    "turkish": "Zararsız",
+    "level": "C2"
+  },
+  {
+    "english": "Insidious",
+    "turkish": "Sinsi",
+    "level": "C2"
+  },
+  {
+    "english": "Insolent",
+    "turkish": "Küstah",
+    "level": "C2"
+  },
+  {
+    "english": "Intransigent",
+    "turkish": "Uzlaşmaz",
+    "level": "C2"
+  },
+  {
+    "english": "Inveterate",
+    "turkish": "Kökleşmiş/Alışkanlık haline gelmiş",
+    "level": "C2"
+  },
+  {
+    "english": "Laconic",
+    "turkish": "Az ve öz konuşan",
+    "level": "C2"
+  },
+  {
+    "english": "Languid",
+    "turkish": "Halsiz/Durgun",
+    "level": "C2"
+  },
+  {
+    "english": "Lascivious",
+    "turkish": "Şehvet düşkünü",
+    "level": "C2"
+  },
+  {
+    "english": "Lithe",
+    "turkish": "Çevik/Esnek",
+    "level": "C2"
+  },
+  {
+    "english": "Loquacious",
+    "turkish": "Konuşkan",
+    "level": "C2"
+  },
+  {
+    "english": "Magnanimous",
+    "turkish": "Yüce gönüllü",
+    "level": "C2"
+  },
+  {
+    "english": "Malinger",
+    "turkish": "Hastalık numarası yapmak",
+    "level": "C2"
+  },
+  {
+    "english": "Mendacious",
+    "turkish": "Yalancı",
+    "level": "C2"
+  },
+  {
+    "english": "Mercurial",
+    "turkish": "Değişken huylu",
+    "level": "C2"
+  },
+  {
+    "english": "Meretricious",
+    "turkish": "Sahte/Gösterişli",
+    "level": "C2"
+  },
+  {
+    "english": "Mollify",
+    "turkish": "Yatıştırmak",
+    "level": "C2"
+  },
+  {
+    "english": "Munificent",
+    "turkish": "El açık/Cömert",
+    "level": "C2"
+  },
+  {
+    "english": "Nefarious",
+    "turkish": "Alçakça/Kötü niyetli",
+    "level": "C2"
+  },
+  {
+    "english": "Obfuscate",
+    "turkish": "Karmaşıklaştırmak/Bulanıklaştırmak",
+    "level": "C2"
+  },
+  {
+    "english": "Obstinate",
+    "turkish": "İnatçı",
+    "level": "C2"
+  },
+  {
+    "english": "Obtuse",
+    "turkish": "Anlayışı kıt",
+    "level": "C2"
+  },
+  {
+    "english": "Officious",
+    "turkish": "Gereğinden fazla yardımsever",
+    "level": "C2"
+  },
+  {
+    "english": "Onerous",
+    "turkish": "Ağır/Külfetli",
+    "level": "C2"
+  },
+  {
+    "english": "Opulent",
+    "turkish": "Görkemli/Zengin",
+    "level": "C2"
+  },
+  {
+    "english": "Ostentatious",
+    "turkish": "Gösterişli",
+    "level": "C2"
+  },
+  {
+    "english": "Panacea",
+    "turkish": "Her derde deva",
+    "level": "C2"
+  },
+  {
+    "english": "Parsimonious",
+    "turkish": "Cimri",
+    "level": "C2"
+  },
+  {
+    "english": "Paucity",
+    "turkish": "Azlık/Kıtlık",
+    "level": "C2"
+  },
+  {
+    "english": "Perfidious",
+    "turkish": "Hain",
+    "level": "C2"
+  },
+  {
+    "english": "Perfunctory",
+    "turkish": "Gönülsüz/Yüzeysel",
+    "level": "C2"
+  },
+  {
+    "english": "Pernicious",
+    "turkish": "Yıkıcı/Zararlı",
+    "level": "C2"
+  },
+  {
+    "english": "Pertinacious",
+    "turkish": "İnatçı/Israrcı",
+    "level": "C2"
+  },
+  {
+    "english": "Placate",
+    "turkish": "Yatıştırmak",
+    "level": "C2"
+  },
+  {
+    "english": "Platitude",
+    "turkish": "Basmakalıp söz",
+    "level": "C2"
+  },
+  {
+    "english": "Plethora",
+    "turkish": "Aşırı bolluk",
+    "level": "C2"
+  },
+  {
+    "english": "Poignant",
+    "turkish": "Dokunaklı",
+    "level": "C2"
+  },
+  {
+    "english": "Pragmatic",
+    "turkish": "Pragmatik/Faydacı",
+    "level": "C2"
+  },
+  {
+    "english": "Precocious",
+    "turkish": "Yaşına göre olgun",
+    "level": "C2"
+  },
+  {
+    "english": "Pretentious",
+    "turkish": "Gösterişçi/Yapmacık",
+    "level": "C2"
+  },
+  {
+    "english": "Prodigal",
+    "turkish": "Savurgan",
+    "level": "C2"
+  },
+  {
+    "english": "Propensity",
+    "turkish": "Eğilim",
+    "level": "C2"
+  },
+  {
+    "english": "Propitious",
+    "turkish": "Uygun/Olumlu",
+    "level": "C2"
+  },
+  {
+    "english": "Pugnacious",
+    "turkish": "Kavgacı",
+    "level": "C2"
+  },
+  {
+    "english": "Punctilious",
+    "turkish": "Kurallara aşırı bağlı",
+    "level": "C2"
+  },
+  {
+    "english": "Quiescent",
+    "turkish": "Sakin/Durgun",
+    "level": "C2"
+  },
+  {
+    "english": "Recalcitrant",
+    "turkish": "Dik kafalı/İnatçı",
+    "level": "C2"
+  },
+  {
+    "english": "Repudiate",
+    "turkish": "Reddetmek",
+    "level": "C2"
+  },
+  {
+    "english": "Reticent",
+    "turkish": "Ketum/Az konuşan",
+    "level": "C2"
+  }
 ]
