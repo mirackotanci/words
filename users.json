@@ -39,7 +39,7 @@
       "theme": "dark"
     },
     "asdf": {
-      "xp": 55,
+      "xp": 53,
       "level": 2,
       "favorites": [
         {
@@ -57,12 +57,18 @@
       "dailyQuiz": 3,
       "dailyXp": 55,
       "quizCorrect": 3,
-      "quizWrong": 0,
+      "quizWrong": 1,
       "wordsSeen": 5,
       "achievements": [
         "first_fav"
       ],
-      "lastWrong": []
+      "lastWrong": [
+        {
+          "english": "Please",
+          "turkish": "Lütfen",
+          "level": "A1"
+        }
+      ]
     }
   }
 }
