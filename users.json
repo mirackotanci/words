@@ -3,9 +3,25 @@
   "users": {
     "mirac": {
       "passwordHash": "189m8o",
-      "xp": 0,
+      "xp": 25,
       "level": 1,
-      "favorites": [],
+      "favorites": [
+        {
+          "english": "Head",
+          "turkish": "Baş",
+          "level": "A1"
+        },
+        {
+          "english": "Love",
+          "turkish": "Sevmek",
+          "level": "A1"
+        },
+        {
+          "english": "Sleep",
+          "turkish": "Uyumak",
+          "level": "A1"
+        }
+      ],
       "translateFavorites": [],
       "theme": "light"
     }
