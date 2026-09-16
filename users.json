@@ -7,6 +7,11 @@
       "level": 1,
       "favorites": [
         {
+          "english": "Farmer",
+          "turkish": "Çiftçi",
+          "level": "A1"
+        },
+        {
           "english": "Lake",
           "turkish": "Göl",
           "level": "A1"
