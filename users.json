@@ -2,7 +2,7 @@
   "adminPassHash": "-g10hvh",
   "users": {
     "mirac": {
-      "xp": 377,
+      "xp": 375,
       "level": 8,
       "favorites": [
         {
@@ -85,7 +85,7 @@
       "dailyTranslate": 0,
       "dailyMistakeReview": 0,
       "quizCorrect": 22,
-      "quizWrong": 4,
+      "quizWrong": 5,
       "wordsSeen": 27,
       "achievements": [
         "first_fav",
@@ -95,6 +95,11 @@
         "fav_10"
       ],
       "lastWrong": [
+        {
+          "english": "Triangle",
+          "turkish": "Üçgen",
+          "level": "A1"
+        },
         {
           "english": "Cook",
           "turkish": "Aşçı",
@@ -123,7 +128,7 @@
       "streakFreezes": 1,
       "streakFreezeUsedOn": "",
       "hintCharges": 1,
-      "quizAnswersSinceHint": 5
+      "quizAnswersSinceHint": 6
     },
     "asdf": {
       "xp": 53,
