@@ -131,11 +131,13 @@
       "translateFavorites": [],
       "passwordHash": "1sdh0",
       "theme": "dark",
-      "streak": 1,
-      "lastActiveDate": "2026-09-16",
-      "dailyWords": 5,
-      "dailyQuiz": 3,
-      "dailyXp": 55,
+      "streak": 2,
+      "lastActiveDate": "2026-09-17",
+      "dailyWords": 0,
+      "dailyQuiz": 0,
+      "dailyXp": 0,
+      "dailyTranslate": 0,
+      "dailyMistakeReview": 0,
       "quizCorrect": 3,
       "quizWrong": 1,
       "wordsSeen": 5,
@@ -149,7 +151,16 @@
           "level": "A1"
         }
       ],
-      "league": "bakir"
+      "missionBonusClaimed": false,
+      "bestCombo": 0,
+      "weeklyXp": 0,
+      "lastWeekStart": "2026-09-14",
+      "streakFreezes": 1,
+      "streakFreezeUsedOn": "",
+      "hintCharges": 1,
+      "quizAnswersSinceHint": 0,
+      "league": "bakir",
+      "lastLeagueResult": null
     }
   },
   "leagueMeta": {
