@@ -6,6 +6,11 @@
       "level": 6,
       "favorites": [
         {
+          "english": "Word",
+          "turkish": "Kelime",
+          "level": "A1"
+        },
+        {
           "english": "Beach",
           "turkish": "Plaj",
           "level": "A1"
