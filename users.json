@@ -2,7 +2,7 @@
   "adminPassHash": "-g10hvh",
   "users": {
     "mirac": {
-      "xp": 379,
+      "xp": 377,
       "level": 8,
       "favorites": [
         {
@@ -85,7 +85,7 @@
       "dailyTranslate": 0,
       "dailyMistakeReview": 0,
       "quizCorrect": 22,
-      "quizWrong": 3,
+      "quizWrong": 4,
       "wordsSeen": 27,
       "achievements": [
         "first_fav",
@@ -95,6 +95,11 @@
         "fav_10"
       ],
       "lastWrong": [
+        {
+          "english": "Cook",
+          "turkish": "Aşçı",
+          "level": "A1"
+        },
         {
           "english": "Lake",
           "turkish": "Göl",
@@ -118,7 +123,7 @@
       "streakFreezes": 1,
       "streakFreezeUsedOn": "",
       "hintCharges": 1,
-      "quizAnswersSinceHint": 4
+      "quizAnswersSinceHint": 5
     },
     "asdf": {
       "xp": 53,
