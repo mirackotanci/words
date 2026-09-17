@@ -52,11 +52,11 @@
       ],
       "passwordHash": "1pv188",
       "theme": "dark",
-      "streak": 1,
-      "lastActiveDate": "2026-09-16",
-      "dailyWords": 10,
-      "dailyQuiz": 7,
-      "dailyXp": 120,
+      "streak": 2,
+      "lastActiveDate": "2026-09-17",
+      "dailyWords": 0,
+      "dailyQuiz": 0,
+      "dailyXp": 0,
       "quizCorrect": 7,
       "quizWrong": 0,
       "wordsSeen": 10,
@@ -64,7 +64,13 @@
         "first_fav",
         "xp_100"
       ],
-      "lastWrong": []
+      "lastWrong": [],
+      "missionBonusClaimed": false,
+      "bestCombo": 0,
+      "weeklyXp": 0,
+      "lastWeekStart": "2026-09-14",
+      "streakFreezes": 1,
+      "streakFreezeUsedOn": ""
     },
     "asdf": {
       "xp": 53,
