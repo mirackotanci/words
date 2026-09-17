@@ -120,7 +120,8 @@
       "streakFreezeUsedOn": "",
       "hintCharges": 2,
       "quizAnswersSinceHint": 1,
-      "league": "bakir"
+      "league": "bakir",
+      "lastLeagueResult": null
     },
     "asdf": {
       "xp": 53,
@@ -152,8 +153,7 @@
           "turkish": "Lütfen",
           "level": "A1"
         }
-      ],
-      "league": "bakir"
+      ]
     }
   },
   "leagueMeta": {
