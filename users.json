@@ -2,9 +2,14 @@
   "adminPassHash": "-g10hvh",
   "users": {
     "mirac": {
-      "xp": 300,
+      "xp": 310,
       "level": 7,
       "favorites": [
+        {
+          "english": "New",
+          "turkish": "Yeni",
+          "level": "A1"
+        },
         {
           "english": "Sorry",
           "turkish": "Özür dilerim",
@@ -64,14 +69,14 @@
       "theme": "dark",
       "streak": 2,
       "lastActiveDate": "2026-09-17",
-      "dailyWords": 10,
+      "dailyWords": 12,
       "dailyQuiz": 10,
-      "dailyXp": 165,
+      "dailyXp": 175,
       "dailyTranslate": 0,
       "dailyMistakeReview": 0,
       "quizCorrect": 17,
       "quizWrong": 0,
-      "wordsSeen": 20,
+      "wordsSeen": 22,
       "achievements": [
         "first_fav",
         "xp_100",
@@ -81,7 +86,7 @@
       "lastWrong": [],
       "missionBonusClaimed": false,
       "bestCombo": 6,
-      "weeklyXp": 165,
+      "weeklyXp": 175,
       "lastWeekStart": "2026-09-14",
       "streakFreezes": 1,
       "streakFreezeUsedOn": "",
