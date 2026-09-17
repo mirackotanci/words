@@ -2,7 +2,7 @@
   "adminPassHash": "-g10hvh",
   "users": {
     "mirac": {
-      "xp": 363,
+      "xp": 361,
       "level": 8,
       "favorites": [
         {
@@ -85,7 +85,7 @@
       "dailyTranslate": 0,
       "dailyMistakeReview": 0,
       "quizCorrect": 20,
-      "quizWrong": 1,
+      "quizWrong": 2,
       "wordsSeen": 27,
       "achievements": [
         "first_fav",
@@ -95,6 +95,11 @@
         "fav_10"
       ],
       "lastWrong": [
+        {
+          "english": "Close",
+          "turkish": "Kapatmak",
+          "level": "A1"
+        },
         {
           "english": "Beach",
           "turkish": "Plaj",
@@ -108,7 +113,7 @@
       "streakFreezes": 1,
       "streakFreezeUsedOn": "",
       "hintCharges": 1,
-      "quizAnswersSinceHint": 0
+      "quizAnswersSinceHint": 1
     },
     "asdf": {
       "xp": 53,
