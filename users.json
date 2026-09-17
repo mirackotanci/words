@@ -48,12 +48,6 @@
       ],
       "translateFavorites": [
         {
-          "from": "erkek kardeş",
-          "to": "brother.",
-          "dir": "tr-en",
-          "id": 1789547359168
-        },
-        {
           "from": "brother",
           "to": "erkek kardeş",
           "dir": "en-tr",
