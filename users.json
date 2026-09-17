@@ -2,7 +2,7 @@
   "adminPassHash": "-g10hvh",
   "users": {
     "mirac": {
-      "xp": 365,
+      "xp": 363,
       "level": 8,
       "favorites": [
         {
@@ -85,7 +85,7 @@
       "dailyTranslate": 0,
       "dailyMistakeReview": 0,
       "quizCorrect": 20,
-      "quizWrong": 0,
+      "quizWrong": 1,
       "wordsSeen": 27,
       "achievements": [
         "first_fav",
@@ -94,15 +94,21 @@
         "level_5",
         "fav_10"
       ],
-      "lastWrong": [],
+      "lastWrong": [
+        {
+          "english": "Beach",
+          "turkish": "Plaj",
+          "level": "A1"
+        }
+      ],
       "missionBonusClaimed": false,
       "bestCombo": 6,
       "weeklyXp": 230,
       "lastWeekStart": "2026-09-14",
       "streakFreezes": 1,
       "streakFreezeUsedOn": "",
-      "hintCharges": 0,
-      "quizAnswersSinceHint": 9
+      "hintCharges": 1,
+      "quizAnswersSinceHint": 0
     },
     "asdf": {
       "xp": 53,
