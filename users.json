@@ -82,8 +82,6 @@
       "dailyWords": 18,
       "dailyQuiz": 19,
       "dailyXp": 300,
-      "dailyTranslate": 0,
-      "dailyMistakeReview": 3,
       "quizCorrect": 26,
       "quizWrong": 5,
       "wordsSeen": 28,
@@ -121,6 +119,8 @@
           "level": "A1"
         }
       ],
+      "dailyTranslate": 0,
+      "dailyMistakeReview": 3,
       "missionBonusClaimed": false,
       "bestCombo": 6,
       "weeklyXp": 300,
