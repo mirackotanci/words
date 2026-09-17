@@ -119,7 +119,8 @@
       "streakFreezes": 1,
       "streakFreezeUsedOn": "",
       "hintCharges": 2,
-      "quizAnswersSinceHint": 1
+      "quizAnswersSinceHint": 1,
+      "league": "bakir"
     },
     "asdf": {
       "xp": 53,
@@ -151,6 +152,16 @@
           "turkish": "Lütfen",
           "level": "A1"
         }
+      ],
+      "league": "bakir"
+    }
+  },
+  "leagueMeta": {
+    "weekStart": "2026-09-14",
+    "groups": {
+      "bakir::2026-09-14::g1": [
+        "asdf",
+        "mirac"
       ]
     }
   }
