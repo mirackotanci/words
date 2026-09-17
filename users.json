@@ -6,6 +6,11 @@
       "level": 9,
       "favorites": [
         {
+          "english": "Sorry",
+          "turkish": "Özür dilerim",
+          "level": "A1"
+        },
+        {
           "english": "Word",
           "turkish": "Kelime",
           "level": "A1"
@@ -56,7 +61,7 @@
         }
       ],
       "passwordHash": "1pv188",
-      "theme": "dark",
+      "theme": "light",
       "streak": 2,
       "lastActiveDate": "2026-09-17",
       "dailyWords": 19,
