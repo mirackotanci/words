@@ -6,6 +6,11 @@
       "level": 4,
       "favorites": [
         {
+          "english": "Beach",
+          "turkish": "Plaj",
+          "level": "A1"
+        },
+        {
           "english": "Close",
           "turkish": "Kapatmak",
           "level": "A1"
