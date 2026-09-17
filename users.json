@@ -2,7 +2,7 @@
   "adminPassHash": "-g10hvh",
   "users": {
     "mirac": {
-      "xp": 405,
+      "xp": 420,
       "level": 9,
       "favorites": [
         {
@@ -80,11 +80,11 @@
       "streak": 2,
       "lastActiveDate": "2026-09-17",
       "dailyWords": 17,
-      "dailyQuiz": 18,
-      "dailyXp": 280,
+      "dailyQuiz": 19,
+      "dailyXp": 295,
       "dailyTranslate": 0,
-      "dailyMistakeReview": 2,
-      "quizCorrect": 25,
+      "dailyMistakeReview": 3,
+      "quizCorrect": 26,
       "quizWrong": 5,
       "wordsSeen": 27,
       "achievements": [
@@ -123,12 +123,12 @@
       ],
       "missionBonusClaimed": false,
       "bestCombo": 6,
-      "weeklyXp": 280,
+      "weeklyXp": 295,
       "lastWeekStart": "2026-09-14",
       "streakFreezes": 1,
       "streakFreezeUsedOn": "",
-      "hintCharges": 1,
-      "quizAnswersSinceHint": 9
+      "hintCharges": 2,
+      "quizAnswersSinceHint": 0
     },
     "asdf": {
       "xp": 53,
