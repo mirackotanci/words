@@ -158,7 +158,7 @@
       "lastLeagueResult": null
     },
     "asdf": {
-      "xp": 88,
+      "xp": 98,
       "level": 2,
       "favorites": [
         {
@@ -198,11 +198,11 @@
       "streak": 3,
       "lastActiveDate": "2026-09-18",
       "dailyWords": 5,
-      "dailyQuiz": 1,
-      "dailyXp": 35,
+      "dailyQuiz": 2,
+      "dailyXp": 45,
       "dailyTranslate": 0,
       "dailyMistakeReview": 0,
-      "quizCorrect": 4,
+      "quizCorrect": 5,
       "quizWrong": 1,
       "wordsSeen": 10,
       "achievements": [
@@ -250,13 +250,13 @@
       "dailyChallenge": 2,
       "totalSpeak": 0,
       "missionBonusClaimed": false,
-      "bestCombo": 1,
-      "weeklyXp": 35,
+      "bestCombo": 2,
+      "weeklyXp": 45,
       "lastWeekStart": "2026-09-14",
       "streakFreezes": 1,
       "streakFreezeUsedOn": "",
       "hintCharges": 1,
-      "quizAnswersSinceHint": 1,
+      "quizAnswersSinceHint": 2,
       "league": "bakir",
       "lastLeagueResult": null
     }
