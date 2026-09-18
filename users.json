@@ -122,6 +122,15 @@
       "outgoingRequests": [],
       "challenges": [
         {
+          "id": "ch-1789733309534-3478",
+          "from": "asdf",
+          "to": "mirac",
+          "type": "xp",
+          "status": "active",
+          "day": "2026-09-18",
+          "expiresAt": 1789765199999
+        },
+        {
           "id": "ch-1789733306877-1728",
           "from": "asdf",
           "to": "mirac",
@@ -191,6 +200,15 @@
       "outgoingRequests": [],
       "challenges": [
         {
+          "id": "ch-1789733309534-3478",
+          "from": "asdf",
+          "to": "mirac",
+          "type": "xp",
+          "status": "active",
+          "day": "2026-09-18",
+          "expiresAt": 1789765199999
+        },
+        {
           "id": "ch-1789733306877-1728",
           "from": "asdf",
           "to": "mirac",
@@ -204,7 +222,7 @@
       "dailySpeak": 0,
       "dailyFav": 0,
       "dailyCombo": 0,
-      "dailyChallenge": 1,
+      "dailyChallenge": 2,
       "totalSpeak": 0,
       "missionBonusClaimed": false,
       "bestCombo": 0,
