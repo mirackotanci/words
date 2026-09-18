@@ -120,7 +120,17 @@
       ],
       "friendRequests": [],
       "outgoingRequests": [],
-      "challenges": [],
+      "challenges": [
+        {
+          "id": "ch-1789733306877-1728",
+          "from": "asdf",
+          "to": "mirac",
+          "type": "quiz",
+          "status": "active",
+          "day": "2026-09-18",
+          "expiresAt": 1789765199999
+        }
+      ],
       "dailySrs": 0,
       "dailySpeak": 0,
       "dailyFav": 0,
@@ -179,12 +189,22 @@
       ],
       "friendRequests": [],
       "outgoingRequests": [],
-      "challenges": [],
+      "challenges": [
+        {
+          "id": "ch-1789733306877-1728",
+          "from": "asdf",
+          "to": "mirac",
+          "type": "quiz",
+          "status": "active",
+          "day": "2026-09-18",
+          "expiresAt": 1789765199999
+        }
+      ],
       "dailySrs": 0,
       "dailySpeak": 0,
       "dailyFav": 0,
       "dailyCombo": 0,
-      "dailyChallenge": 0,
+      "dailyChallenge": 1,
       "totalSpeak": 0,
       "missionBonusClaimed": false,
       "bestCombo": 0,
