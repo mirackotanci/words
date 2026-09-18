@@ -158,9 +158,14 @@
       "lastLeagueResult": null
     },
     "asdf": {
-      "xp": 63,
+      "xp": 68,
       "level": 2,
       "favorites": [
+        {
+          "english": "Wind",
+          "turkish": "Rüzgar",
+          "level": "A1"
+        },
         {
           "english": "Onion",
           "turkish": "Soğan",
@@ -182,14 +187,14 @@
       "theme": "dark",
       "streak": 3,
       "lastActiveDate": "2026-09-18",
-      "dailyWords": 2,
+      "dailyWords": 3,
       "dailyQuiz": 0,
-      "dailyXp": 10,
+      "dailyXp": 15,
       "dailyTranslate": 0,
       "dailyMistakeReview": 0,
       "quizCorrect": 3,
       "quizWrong": 1,
-      "wordsSeen": 7,
+      "wordsSeen": 8,
       "achievements": [
         "first_fav",
         "streak_3",
@@ -236,7 +241,7 @@
       "totalSpeak": 0,
       "missionBonusClaimed": false,
       "bestCombo": 0,
-      "weeklyXp": 10,
+      "weeklyXp": 15,
       "lastWeekStart": "2026-09-14",
       "streakFreezes": 1,
       "streakFreezeUsedOn": "",
