@@ -122,15 +122,6 @@
       "outgoingRequests": [],
       "challenges": [
         {
-          "id": "ch-1789733348721-4230",
-          "from": "mirac",
-          "to": "asdf",
-          "type": "quiz",
-          "status": "active",
-          "day": "2026-09-18",
-          "expiresAt": 1789765199999
-        },
-        {
           "id": "ch-1789733309534-3478",
           "from": "asdf",
           "to": "mirac",
@@ -153,7 +144,7 @@
       "dailySpeak": 0,
       "dailyFav": 0,
       "dailyCombo": 0,
-      "dailyChallenge": 1,
+      "dailyChallenge": 0,
       "totalSpeak": 0,
       "missionBonusClaimed": false,
       "bestCombo": 6,
@@ -170,6 +161,11 @@
       "xp": 53,
       "level": 2,
       "favorites": [
+        {
+          "english": "Theatre",
+          "turkish": "Tiyatro",
+          "level": "A2"
+        },
         {
           "english": "Spring",
           "turkish": "İlkbahar",
@@ -208,15 +204,6 @@
       "friendRequests": [],
       "outgoingRequests": [],
       "challenges": [
-        {
-          "id": "ch-1789733348721-4230",
-          "from": "mirac",
-          "to": "asdf",
-          "type": "quiz",
-          "status": "active",
-          "day": "2026-09-18",
-          "expiresAt": 1789765199999
-        },
         {
           "id": "ch-1789733309534-3478",
           "from": "asdf",
