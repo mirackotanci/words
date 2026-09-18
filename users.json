@@ -62,13 +62,13 @@
       ],
       "passwordHash": "1pv188",
       "theme": "dark",
-      "streak": 2,
-      "lastActiveDate": "2026-09-17",
-      "dailyWords": 25,
-      "dailyQuiz": 27,
-      "dailyXp": 420,
-      "dailyTranslate": 1,
-      "dailyMistakeReview": 3,
+      "streak": 3,
+      "lastActiveDate": "2026-09-18",
+      "dailyWords": 0,
+      "dailyQuiz": 0,
+      "dailyXp": 0,
+      "dailyTranslate": 0,
+      "dailyMistakeReview": 0,
       "quizCorrect": 34,
       "quizWrong": 5,
       "wordsSeen": 35,
@@ -78,7 +78,8 @@
         "quiz_10",
         "level_5",
         "fav_10",
-        "level_10"
+        "level_10",
+        "streak_3"
       ],
       "lastWrong": [
         {
