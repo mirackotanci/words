@@ -162,6 +162,11 @@
       "level": 2,
       "favorites": [
         {
+          "english": "Bird",
+          "turkish": "Kuş",
+          "level": "A1"
+        },
+        {
           "english": "Cold",
           "turkish": "Soğuk",
           "level": "A1"
