@@ -6,6 +6,11 @@
       "level": 16,
       "favorites": [
         {
+          "english": "Advertisement",
+          "turkish": "Reklam",
+          "level": "A2"
+        },
+        {
           "english": "Sorry",
           "turkish": "Özür dilerim",
           "level": "A1"
