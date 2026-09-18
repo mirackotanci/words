@@ -108,6 +108,17 @@
           "level": "A1"
         }
       ],
+      "srsCards": {},
+      "friends": [],
+      "friendRequests": [],
+      "outgoingRequests": [],
+      "challenges": [],
+      "dailySrs": 0,
+      "dailySpeak": 0,
+      "dailyFav": 0,
+      "dailyCombo": 0,
+      "dailyChallenge": 0,
+      "totalSpeak": 0,
       "missionBonusClaimed": false,
       "bestCombo": 6,
       "weeklyXp": 420,
