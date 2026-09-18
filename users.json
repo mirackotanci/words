@@ -158,9 +158,14 @@
       "lastLeagueResult": null
     },
     "asdf": {
-      "xp": 73,
+      "xp": 78,
       "level": 2,
       "favorites": [
+        {
+          "english": "Bird",
+          "turkish": "Kuş",
+          "level": "A1"
+        },
         {
           "english": "Cold",
           "turkish": "Soğuk",
@@ -192,14 +197,14 @@
       "theme": "dark",
       "streak": 3,
       "lastActiveDate": "2026-09-18",
-      "dailyWords": 4,
+      "dailyWords": 5,
       "dailyQuiz": 0,
-      "dailyXp": 20,
+      "dailyXp": 25,
       "dailyTranslate": 0,
       "dailyMistakeReview": 0,
       "quizCorrect": 3,
       "quizWrong": 1,
-      "wordsSeen": 9,
+      "wordsSeen": 10,
       "achievements": [
         "first_fav",
         "streak_3",
@@ -246,7 +251,7 @@
       "totalSpeak": 0,
       "missionBonusClaimed": false,
       "bestCombo": 0,
-      "weeklyXp": 20,
+      "weeklyXp": 25,
       "lastWeekStart": "2026-09-14",
       "streakFreezes": 1,
       "streakFreezeUsedOn": "",
