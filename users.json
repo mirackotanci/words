@@ -158,7 +158,7 @@
       "lastLeagueResult": null
     },
     "asdf": {
-      "xp": 98,
+      "xp": 96,
       "level": 2,
       "favorites": [
         {
@@ -203,7 +203,7 @@
       "dailyTranslate": 0,
       "dailyMistakeReview": 0,
       "quizCorrect": 5,
-      "quizWrong": 1,
+      "quizWrong": 2,
       "wordsSeen": 10,
       "achievements": [
         "first_fav",
@@ -211,6 +211,11 @@
         "friends_1"
       ],
       "lastWrong": [
+        {
+          "english": "Yesterday",
+          "turkish": "Dün",
+          "level": "A1"
+        },
         {
           "english": "Please",
           "turkish": "Lütfen",
@@ -256,7 +261,7 @@
       "streakFreezes": 1,
       "streakFreezeUsedOn": "",
       "hintCharges": 1,
-      "quizAnswersSinceHint": 2,
+      "quizAnswersSinceHint": 3,
       "league": "bakir",
       "lastLeagueResult": null
     }
