@@ -2,7 +2,7 @@
   "adminPassHash": "-g10hvh",
   "users": {
     "mirac": {
-      "xp": 715,
+      "xp": 713,
       "level": 15,
       "favorites": [
         {
@@ -70,7 +70,7 @@
       "dailyTranslate": 0,
       "dailyMistakeReview": 0,
       "quizCorrect": 38,
-      "quizWrong": 5,
+      "quizWrong": 6,
       "wordsSeen": 60,
       "achievements": [
         "first_fav",
@@ -82,6 +82,11 @@
         "streak_3"
       ],
       "lastWrong": [
+        {
+          "english": "Journey",
+          "turkish": "Yolculuk",
+          "level": "A2"
+        },
         {
           "english": "Triangle",
           "turkish": "Üçgen",
@@ -126,7 +131,7 @@
       "streakFreezes": 1,
       "streakFreezeUsedOn": "",
       "hintCharges": 1,
-      "quizAnswersSinceHint": 2,
+      "quizAnswersSinceHint": 3,
       "league": "bakir",
       "lastLeagueResult": null
     },
