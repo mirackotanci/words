@@ -79,7 +79,8 @@
         "level_5",
         "fav_10",
         "level_10",
-        "streak_3"
+        "streak_3",
+        "friends_1"
       ],
       "lastWrong": [
         {
@@ -114,11 +115,11 @@
         }
       ],
       "srsCards": {},
-      "friends": [],
-      "friendRequests": [],
-      "outgoingRequests": [
+      "friends": [
         "asdf"
       ],
+      "friendRequests": [],
+      "outgoingRequests": [],
       "challenges": [],
       "dailySrs": 0,
       "dailySpeak": 0,
@@ -162,7 +163,8 @@
       "wordsSeen": 5,
       "achievements": [
         "first_fav",
-        "streak_3"
+        "streak_3",
+        "friends_1"
       ],
       "lastWrong": [
         {
@@ -172,10 +174,10 @@
         }
       ],
       "srsCards": {},
-      "friends": [],
-      "friendRequests": [
+      "friends": [
         "mirac"
       ],
+      "friendRequests": [],
       "outgoingRequests": [],
       "challenges": [],
       "dailySrs": 0,
