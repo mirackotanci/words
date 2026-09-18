@@ -2,9 +2,14 @@
   "adminPassHash": "-g10hvh",
   "users": {
     "mirac": {
-      "xp": 783,
+      "xp": 788,
       "level": 16,
       "favorites": [
+        {
+          "english": "Gift",
+          "turkish": "Hediye",
+          "level": "A2"
+        },
         {
           "english": "Hospital",
           "turkish": "Hastane",
@@ -79,14 +84,14 @@
       "theme": "dark",
       "streak": 3,
       "lastActiveDate": "2026-09-18",
-      "dailyWords": 30,
+      "dailyWords": 31,
       "dailyQuiz": 8,
-      "dailyXp": 240,
+      "dailyXp": 245,
       "dailyTranslate": 0,
       "dailyMistakeReview": 3,
       "quizCorrect": 42,
       "quizWrong": 6,
-      "wordsSeen": 65,
+      "wordsSeen": 66,
       "achievements": [
         "first_fav",
         "xp_100",
@@ -163,7 +168,7 @@
       "totalSpeak": 0,
       "missionBonusClaimed": false,
       "bestCombo": 6,
-      "weeklyXp": 660,
+      "weeklyXp": 665,
       "lastWeekStart": "2026-09-14",
       "streakFreezes": 1,
       "streakFreezeUsedOn": "",
