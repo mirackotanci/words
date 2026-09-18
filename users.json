@@ -158,9 +158,14 @@
       "lastLeagueResult": null
     },
     "asdf": {
-      "xp": 53,
+      "xp": 63,
       "level": 2,
       "favorites": [
+        {
+          "english": "Onion",
+          "turkish": "Soğan",
+          "level": "A1"
+        },
         {
           "english": "Theatre",
           "turkish": "Tiyatro",
@@ -177,14 +182,14 @@
       "theme": "dark",
       "streak": 3,
       "lastActiveDate": "2026-09-18",
-      "dailyWords": 0,
+      "dailyWords": 2,
       "dailyQuiz": 0,
-      "dailyXp": 0,
+      "dailyXp": 10,
       "dailyTranslate": 0,
       "dailyMistakeReview": 0,
       "quizCorrect": 3,
       "quizWrong": 1,
-      "wordsSeen": 5,
+      "wordsSeen": 7,
       "achievements": [
         "first_fav",
         "streak_3",
@@ -231,7 +236,7 @@
       "totalSpeak": 0,
       "missionBonusClaimed": false,
       "bestCombo": 0,
-      "weeklyXp": 0,
+      "weeklyXp": 10,
       "lastWeekStart": "2026-09-14",
       "streakFreezes": 1,
       "streakFreezeUsedOn": "",
