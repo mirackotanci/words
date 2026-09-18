@@ -2,9 +2,14 @@
   "adminPassHash": "-g10hvh",
   "users": {
     "mirac": {
-      "xp": 788,
+      "xp": 793,
       "level": 16,
       "favorites": [
+        {
+          "english": "Tennis",
+          "turkish": "Tenis",
+          "level": "A2"
+        },
         {
           "english": "Gift",
           "turkish": "Hediye",
@@ -84,14 +89,14 @@
       "theme": "dark",
       "streak": 3,
       "lastActiveDate": "2026-09-18",
-      "dailyWords": 31,
+      "dailyWords": 32,
       "dailyQuiz": 8,
-      "dailyXp": 245,
+      "dailyXp": 250,
       "dailyTranslate": 0,
       "dailyMistakeReview": 3,
       "quizCorrect": 42,
       "quizWrong": 6,
-      "wordsSeen": 66,
+      "wordsSeen": 67,
       "achievements": [
         "first_fav",
         "xp_100",
@@ -168,7 +173,7 @@
       "totalSpeak": 0,
       "missionBonusClaimed": false,
       "bestCombo": 6,
-      "weeklyXp": 665,
+      "weeklyXp": 670,
       "lastWeekStart": "2026-09-14",
       "streakFreezes": 1,
       "streakFreezeUsedOn": "",
