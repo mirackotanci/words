@@ -163,14 +163,22 @@
       "totalSpeak": 0,
       "missionBonusClaimed": false,
       "bestCombo": 6,
-      "weeklyXp": 670,
-      "lastWeekStart": "2026-09-14",
+      "weeklyXp": 0,
+      "lastWeekStart": "2026-09-21",
       "streakFreezes": 1,
       "streakFreezeUsedOn": "",
       "hintCharges": 0,
       "quizAnswersSinceHint": 7,
-      "league": "bakir",
-      "lastLeagueResult": null
+      "league": "gumus",
+      "lastLeagueResult": {
+        "type": "promote",
+        "from": "bakir",
+        "to": "gumus",
+        "rank": 1,
+        "groupSize": 2,
+        "weekStart": "2026-09-14",
+        "seen": false
+      }
     },
     "asdf": {
       "xp": 94,
@@ -276,21 +284,31 @@
       "totalSpeak": 0,
       "missionBonusClaimed": false,
       "bestCombo": 2,
-      "weeklyXp": 45,
-      "lastWeekStart": "2026-09-14",
+      "weeklyXp": 0,
+      "lastWeekStart": "2026-09-21",
       "streakFreezes": 1,
       "streakFreezeUsedOn": "",
       "hintCharges": 1,
       "quizAnswersSinceHint": 4,
       "league": "bakir",
-      "lastLeagueResult": null
+      "lastLeagueResult": {
+        "type": "stay",
+        "from": "bakir",
+        "to": "bakir",
+        "rank": 2,
+        "groupSize": 2,
+        "weekStart": "2026-09-14",
+        "seen": false
+      }
     }
   },
   "leagueMeta": {
-    "weekStart": "2026-09-14",
+    "weekStart": "2026-09-21",
     "groups": {
-      "bakir::2026-09-14::g1": [
-        "asdf",
+      "bakir::2026-09-21::g1": [
+        "asdf"
+      ],
+      "gumus::2026-09-21::g1": [
         "mirac"
       ]
     }
