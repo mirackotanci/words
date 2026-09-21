@@ -77,13 +77,13 @@
       ],
       "passwordHash": "1pv188",
       "theme": "dark",
-      "streak": 3,
-      "lastActiveDate": "2026-09-18",
-      "dailyWords": 32,
-      "dailyQuiz": 8,
-      "dailyXp": 250,
+      "streak": 1,
+      "lastActiveDate": "2026-09-21",
+      "dailyWords": 0,
+      "dailyQuiz": 0,
+      "dailyXp": 0,
       "dailyTranslate": 0,
-      "dailyMistakeReview": 3,
+      "dailyMistakeReview": 0,
       "quizCorrect": 42,
       "quizWrong": 6,
       "wordsSeen": 67,
@@ -143,7 +143,10 @@
           "type": "xp",
           "status": "active",
           "day": "2026-09-18",
-          "expiresAt": 1789765199999
+          "expiresAt": 1789765199999,
+          "scores": {
+            "to": 250
+          }
         },
         {
           "id": "ch-1789733306877-1728",
@@ -152,7 +155,10 @@
           "type": "quiz",
           "status": "active",
           "day": "2026-09-18",
-          "expiresAt": 1789765199999
+          "expiresAt": 1789765199999,
+          "scores": {
+            "to": 8
+          }
         }
       ],
       "dailySrs": 0,
@@ -169,16 +175,8 @@
       "streakFreezeUsedOn": "",
       "hintCharges": 0,
       "quizAnswersSinceHint": 7,
-      "league": "gumus",
-      "lastLeagueResult": {
-        "type": "promote",
-        "from": "bakir",
-        "to": "gumus",
-        "rank": 1,
-        "groupSize": 2,
-        "weekStart": "2026-09-14",
-        "seen": false
-      }
+      "league": "bakir",
+      "lastLeagueResult": null
     },
     "asdf": {
       "xp": 94,
@@ -284,22 +282,14 @@
       "totalSpeak": 0,
       "missionBonusClaimed": false,
       "bestCombo": 2,
-      "weeklyXp": 0,
-      "lastWeekStart": "2026-09-21",
+      "weeklyXp": 45,
+      "lastWeekStart": "2026-09-14",
       "streakFreezes": 1,
       "streakFreezeUsedOn": "",
       "hintCharges": 1,
       "quizAnswersSinceHint": 4,
       "league": "bakir",
-      "lastLeagueResult": {
-        "type": "stay",
-        "from": "bakir",
-        "to": "bakir",
-        "rank": 2,
-        "groupSize": 2,
-        "weekStart": "2026-09-14",
-        "seen": false
-      }
+      "lastLeagueResult": null
     }
   },
   "leagueMeta": {
