@@ -2,8 +2,8 @@
   "adminPassHash": "-g10hvh",
   "users": {
     "mirac": {
-      "xp": 897,
-      "level": 18,
+      "xp": 918,
+      "level": 19,
       "favorites": [
         {
           "english": "Hospital",
@@ -63,6 +63,12 @@
       ],
       "translateFavorites": [
         {
+          "from": "koyu",
+          "to": "Dark",
+          "dir": "tr-en",
+          "id": 1790139687299
+        },
+        {
           "from": "erkek kardeş",
           "to": "brother.",
           "dir": "tr-en",
@@ -79,14 +85,14 @@
       "theme": "dark",
       "streak": 2,
       "lastActiveDate": "2026-09-23",
-      "dailyWords": 4,
+      "dailyWords": 9,
       "dailyQuiz": 0,
-      "dailyXp": 24,
-      "dailyTranslate": 0,
+      "dailyXp": 45,
+      "dailyTranslate": 2,
       "dailyMistakeReview": 0,
       "quizCorrect": 42,
       "quizWrong": 6,
-      "wordsSeen": 87,
+      "wordsSeen": 92,
       "achievements": [
         "first_fav",
         "xp_100",
@@ -163,14 +169,14 @@
         }
       ],
       "dailySrs": 0,
-      "dailySpeak": 4,
+      "dailySpeak": 0,
       "dailyFav": 0,
       "dailyCombo": 0,
       "dailyChallenge": 0,
-      "totalSpeak": 4,
+      "totalSpeak": 0,
       "missionBonusClaimed": false,
       "bestCombo": 6,
-      "weeklyXp": 104,
+      "weeklyXp": 125,
       "lastWeekStart": "2026-09-21",
       "streakFreezes": 0,
       "streakFreezeUsedOn": "2026-09-23",
