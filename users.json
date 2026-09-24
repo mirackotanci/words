@@ -2,8 +2,8 @@
   "adminPassHash": "-g10hvh",
   "users": {
     "mirac": {
-      "xp": 951,
-      "level": 20,
+      "xp": 949,
+      "level": 19,
       "favorites": [
         {
           "english": "Hospital",
@@ -91,7 +91,7 @@
       "dailyTranslate": 0,
       "dailyMistakeReview": 0,
       "quizCorrect": 45,
-      "quizWrong": 6,
+      "quizWrong": 7,
       "wordsSeen": 92,
       "achievements": [
         "first_fav",
@@ -105,6 +105,11 @@
       ],
       "notifications": [],
       "lastWrong": [
+        {
+          "english": "Border",
+          "turkish": "Sınır",
+          "level": "A2"
+        },
         {
           "english": "Journey",
           "turkish": "Yolculuk",
@@ -181,7 +186,7 @@
       "streakFreezes": 0,
       "streakFreezeUsedOn": "2026-09-23",
       "hintCharges": 1,
-      "quizAnswersSinceHint": 0,
+      "quizAnswersSinceHint": 1,
       "league": "bakir",
       "lastLeagueResult": null
     },
