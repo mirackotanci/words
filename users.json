@@ -2,8 +2,8 @@
   "adminPassHash": "-g10hvh",
   "users": {
     "mirac": {
-      "xp": 945,
-      "level": 19,
+      "xp": 955,
+      "level": 20,
       "favorites": [
         {
           "english": "Hospital",
@@ -86,11 +86,11 @@
       "streak": 3,
       "lastActiveDate": "2026-09-24",
       "dailyWords": 0,
-      "dailyQuiz": 3,
-      "dailyXp": 33,
+      "dailyQuiz": 4,
+      "dailyXp": 43,
       "dailyTranslate": 0,
       "dailyMistakeReview": 0,
-      "quizCorrect": 45,
+      "quizCorrect": 46,
       "quizWrong": 9,
       "wordsSeen": 92,
       "achievements": [
@@ -191,12 +191,12 @@
       "totalSpeak": 1,
       "missionBonusClaimed": false,
       "bestCombo": 6,
-      "weeklyXp": 158,
+      "weeklyXp": 168,
       "lastWeekStart": "2026-09-21",
       "streakFreezes": 0,
       "streakFreezeUsedOn": "2026-09-23",
       "hintCharges": 1,
-      "quizAnswersSinceHint": 3,
+      "quizAnswersSinceHint": 4,
       "league": "bakir",
       "lastLeagueResult": null
     },
