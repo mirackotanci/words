@@ -63,6 +63,12 @@
       ],
       "translateFavorites": [
         {
+          "from": "dog",
+          "to": "köpek",
+          "dir": "en-tr",
+          "id": 1790228877328
+        },
+        {
           "from": "koyu",
           "to": "Dark",
           "dir": "tr-en",
