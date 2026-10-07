@@ -89,12 +89,12 @@
       ],
       "passwordHash": "1pv188",
       "theme": "dark",
-      "streak": 3,
-      "lastActiveDate": "2026-09-24",
+      "streak": 1,
+      "lastActiveDate": "2026-10-07",
       "dailyWords": 0,
-      "dailyQuiz": 6,
-      "dailyXp": 68,
-      "dailyTranslate": 2,
+      "dailyQuiz": 0,
+      "dailyXp": 0,
+      "dailyTranslate": 0,
       "dailyMistakeReview": 0,
       "quizCorrect": 48,
       "quizWrong": 9,
@@ -190,7 +190,7 @@
         }
       ],
       "dailySrs": 0,
-      "dailySpeak": 1,
+      "dailySpeak": 0,
       "dailyFav": 0,
       "dailyCombo": 0,
       "dailyChallenge": 0,
@@ -211,7 +211,7 @@
         "rank": 1,
         "groupSize": 1,
         "weekStart": "2026-09-21",
-        "seen": false
+        "seen": true
       }
     },
     "asdf": {
