@@ -112,7 +112,7 @@
       "notifications": [
         {
           "id": "1792409947088_wm7ekp",
-          "read": false,
+          "read": true,
           "date": "2026-10-19T11:39:07.088Z",
           "icon": "⏰",
           "type": "reminder",
