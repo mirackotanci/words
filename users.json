@@ -90,7 +90,7 @@
       "passwordHash": "1pv188",
       "theme": "dark",
       "streak": 1,
-      "lastActiveDate": "2026-10-07",
+      "lastActiveDate": "2026-10-19",
       "dailyWords": 0,
       "dailyQuiz": 0,
       "dailyXp": 0,
@@ -109,7 +109,17 @@
         "streak_3",
         "friends_1"
       ],
-      "notifications": [],
+      "notifications": [
+        {
+          "id": "1792409947088_wm7ekp",
+          "read": false,
+          "date": "2026-10-19T11:39:07.088Z",
+          "icon": "⏰",
+          "type": "reminder",
+          "title": "Günlük hatırlatma",
+          "message": "1 günlük serini kaybetmemek için bugün birkaç kelime çalış."
+        }
+      ],
       "lastWrong": [
         {
           "english": "Litre",
