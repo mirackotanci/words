@@ -198,19 +198,19 @@
       "missionBonusClaimed": false,
       "bestCombo": 6,
       "weeklyXp": 0,
-      "lastWeekStart": "2026-10-12",
+      "lastWeekStart": "2026-10-19",
       "streakFreezes": 0,
       "streakFreezeUsedOn": "2026-09-23",
       "hintCharges": 1,
       "quizAnswersSinceHint": 6,
-      "league": "gumus",
+      "league": "altin",
       "lastLeagueResult": {
-        "type": "demote",
-        "from": "altin",
-        "to": "gumus",
+        "type": "promote",
+        "from": "gumus",
+        "to": "altin",
         "rank": 1,
         "groupSize": 1,
-        "weekStart": "2026-10-05",
+        "weekStart": "2026-10-12",
         "seen": false
       }
     },
@@ -319,31 +319,31 @@
       "missionBonusClaimed": false,
       "bestCombo": 2,
       "weeklyXp": 0,
-      "lastWeekStart": "2026-10-12",
+      "lastWeekStart": "2026-10-19",
       "streakFreezes": 1,
       "streakFreezeUsedOn": "",
       "hintCharges": 1,
       "quizAnswersSinceHint": 4,
-      "league": "altin",
+      "league": "gumus",
       "lastLeagueResult": {
-        "type": "promote",
-        "from": "gumus",
-        "to": "altin",
+        "type": "demote",
+        "from": "altin",
+        "to": "gumus",
         "rank": 1,
         "groupSize": 1,
-        "weekStart": "2026-10-05",
+        "weekStart": "2026-10-12",
         "seen": false
       }
     }
   },
   "leagueMeta": {
-    "weekStart": "2026-10-12",
+    "weekStart": "2026-10-19",
     "groups": {
-      "gumus::2026-10-12::g1": [
-        "mirac"
-      ],
-      "altin::2026-10-12::g1": [
+      "gumus::2026-10-19::g1": [
         "asdf"
+      ],
+      "altin::2026-10-19::g1": [
+        "mirac"
       ]
     }
   }
